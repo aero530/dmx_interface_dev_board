@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\phil\Documents\code\dmx_interface_db\DMX Interface.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=dmx interface-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=dmx interface-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl

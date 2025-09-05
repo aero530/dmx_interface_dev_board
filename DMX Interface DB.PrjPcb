@@ -1,0 +1,3682 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=1
+AutoCrossReferences=1
+NewIndexingOfSheetSymbols=1
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=0
+ConstraintManagerFlow=0
+IsVirtualBomDocumentRemoved=0
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=
+IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=0
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=Production
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=Block Diagram.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OEWMMKXR
+
+[Document2]
+DocumentPath=DMX Interface.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PGTSSFWR
+
+[Document3]
+DocumentPath=Microcontroller.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TOQGWPEH
+
+[Document4]
+DocumentPath=DMX.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BNOSHSNT
+
+[Document5]
+DocumentPath=SmartLED.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AFGUJUUH
+
+[Document6]
+DocumentPath=LED_low_side_control.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SQANIZGV
+
+[Document7]
+DocumentPath=LED_low_side_connector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VAHFKAWY
+
+[Document8]
+DocumentPath=LED_low_side_control.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=DMX.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=LED_low_side_connector.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=DMX_RP2040.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FRIHMQUF
+
+[Document12]
+DocumentPath=RP2040.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NCLWUPTO
+
+[Document13]
+DocumentPath=RP2040.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=DMX Interface.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=SmartLED.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=Module Connector Female.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=24
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BRLOZEVR
+
+[Document17]
+DocumentPath=STM32.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=25
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WPEFUARC
+
+[Document18]
+DocumentPath=Module Connector Male.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HGLFLGBJ
+
+[Document19]
+DocumentPath=Module Connector Male.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document20]
+DocumentPath=LED_high_power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=18
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BNCCYJLI
+
+[Document21]
+DocumentPath=LED_high_power.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document22]
+DocumentPath=TPS922051.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=19
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IVFEAFBY
+
+[Document23]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
+DocumentPath=DMX Interface_Assy.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KTEXJPYN
+
+[Document25]
+DocumentPath=DMX Interface_FAB.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HHMBLKEL
+
+[Document26]
+DocumentPath=STM32.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=Drive Select.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=26
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PTQTXWAG
+
+[Document28]
+DocumentPath=Drive Select.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document29]
+DocumentPath=Module Connector Female.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueId=b434e3df-c20b-4eb1-a24e-0423bc91d971
+Description=Production
+AllowFabrication=0
+ParameterCount=0
+VariationCount=9
+Variation1=Designator=R41|UniqueId=\MULVPFYD\OGUROPIG|Kind=1|AlternatePart=
+Variation2=Designator=R43|UniqueId=\MULVPFYD\TASUSTKO|Kind=1|AlternatePart=
+Variation3=Designator=R51|UniqueId=\MULVPFYD\RBXOARNO|Kind=1|AlternatePart=
+Variation4=Designator=R56|UniqueId=\MULVPFYD\QWZZAGCX|Kind=1|AlternatePart=
+Variation5=Designator=J40|UniqueId=\WWSTGUSB\KVOIYKMO\MPYXVPPS|Kind=1|AlternatePart=
+Variation6=Designator=J51|UniqueId=\WWSTGUSB\KVOIYKMO\LRLPEKSH|Kind=1|AlternatePart=
+Variation7=Designator=C3_PWM1|UniqueId=\MULVPFYD\TBVZZLJW\GIQPOCXZ|Kind=0|AlternatePart=
+Variation8=Designator=C3_PWM2|UniqueId=\MULVPFYD\ATRYBEJT\GIQPOCXZ|Kind=0|AlternatePart=
+Variation9=Designator=C3_PWM3|UniqueId=\MULVPFYD\DTRHXZDQ\GIQPOCXZ|Kind=0|AlternatePart=
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DMX Interface DB\BOM\Active BOM-DMX Interface(Production).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for DMX Interface\Active_BOM\Active BOM-DMX Interface(SMT).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-DMX Interface(SMT).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\BOM\Copy of Bill of Materials-DMX Interface(SMT).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for DMX Interface DB\Design Rule Check - DMX Interface.html
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for DMX Interface\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=DMX Interface 9-5-2025 7-40-31 AM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface-RoundHoles-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G1
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G1
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G1
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G2
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G2
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G2
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G3
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G3
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G3
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G4
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G4
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G4
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GM
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GM
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GM
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.REP
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.REP
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.REP
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_6\features
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_7\features
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int1__gnd_\features
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int2__pwr_\features
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int3__sign_\features
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int4__gnd_\features
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\rout\features
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape0db032d7\features
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape2e043c68\features
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape2f333148\features
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape5d4080e7\features
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape27a636e6\features
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape32f909d2\features
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape097c866e\features
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape428b1e6c\features
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape960b5058\features
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape3410df80\features
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape4828388f\features
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapea418c62c\features
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapeac496130\features
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapedf308b95\features
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapeead5950f\features
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for Free Documents\ODB\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs for DMX Interface\Pick Place\Pick Place for DMX Interface(SMT).csv
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=..\..\..\AppData\Local\Temp\Qjz28D9.xls
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=..\..\..\AppData\Local\Temp\Qjz68A9.xls
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=..\..\..\AppData\Local\Temp\Qjz1175.xls
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=..\..\..\AppData\Local\Temp\Qjz5641.xls
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=..\..\..\AppData\Local\Temp\QjzE9A5.xls
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\rout\tools
+DItemRevisionGUID=
+
+[Parameter1]
+Name=PROJECT_TITLE
+Value=DMX Interface
+
+[Parameter2]
+Name=REV
+Value=1
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Phaser 7500DN PS
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Phaser 7500DN PS
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Phaser 7500DN PS
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Harness Layout Drawing Print
+OutputName2=Harness Layout Drawing Prints
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=Harness Wiring Diagram Print
+OutputName3=Harness Wiring Diagram Prints
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=PCB 3D Print
+OutputName4=PCB 3D Print
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=PCB 3D Video
+OutputName5=PCB 3D Video
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=PCB Print
+OutputName6=PCB Prints
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=PCBDrawing
+OutputName7=Draftsman
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=PCBLIB Print
+OutputName8=PCBLIB Prints
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=PDF3D
+OutputName9=PDF3D
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=PDF3D MBA
+OutputName10=PDF3D MBA
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Report Print
+OutputName11=Report Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Schematic Print
+OutputName12=Schematic Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType13=SimView Print
+OutputName13=SimView Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Phaser 7500DN PS
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Phaser 7500DN PS
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=CompositeDrill
+OutputName2=Composite Drill Drawing
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=Drill
+OutputName3=Drill Drawing/Guides
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Gerber
+OutputName5=Gerber Files
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Gerber X2
+OutputName6=Gerber X2 Files
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=IPC2581
+OutputName7=IPC-2581 Files
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=NC Drill
+OutputName9=NC Drill Files
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=ODB
+OutputName10=ODB++ Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+OutputType11=Plane
+OutputName11=Power-Plane Prints
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Test Points
+OutputName12=Test Point Report
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Phaser 7500DN PS
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=BOM_ReportCompare
+OutputName2=BOM Compare
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=ComponentCrossReference
+OutputName3=Component Cross Reference Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Export Comments
+OutputName4=Export Comments
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Project History
+OutputName5=Project History
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=ReportHierarchy
+OutputName6=Report Project Hierarchy
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Script
+OutputName7=Script Output
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=SimpleBOM
+OutputName8=Simple BOM
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+OutputType9=SinglePinNetReporter
+OutputName9=Report Single Pin Nets
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Phaser 7500DN PS
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Phaser 7500DN PS
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Phaser 7500DN PS
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AnsysEDB
+OutputName1=Ansys EDB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf PCB
+OutputName2=AutoCAD dwg/dxf File PCB
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=AutoCAD dwg/dxf Schematic
+OutputName3=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportIDF
+OutputName4=Export IDF
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=ExportPARASOLID
+OutputName5=Export PARASOLID
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportSTEP
+OutputName6=Export STEP
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=ExportVRML
+OutputName7=Export VRML
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=MBAExportPARASOLID
+OutputName8=Export PARASOLID
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=MBAExportSTEP
+OutputName9=Export STEP
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Save As/Export PCB
+OutputName10=Save As/Export PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Save As/Export Schematic
+OutputName11=Save As/Export Schematic
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Specctra Design PCB
+OutputName12=Specctra Design PCB
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Web ReviewOutputName
+OutputName13=Web Review Data
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Phaser 7500DN PS
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
+Type137=1
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=1
+Type148=1
+Type149=1
+Type150=1
+Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=2
+Type13=2
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=0
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=0
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
+Type152=1
+Type153=1
+Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
+Type162=1
+Type163=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Vault Name
+ComponentLibraryIdentifier0=Equus Computer Systems
+ComponentDesignItemID0=CMP-00024-00008-2
+ComponentSymbolReference0=TI-TLC59116PW28
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Vault Name
+ComponentLibraryIdentifier1=Equus Computer Systems
+ComponentDesignItemID1=CMP-00024-00009-2
+ComponentSymbolReference1=TPS922051D1DGNR-Symbol-1
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Vault Name
+ComponentLibraryIdentifier2=Equus Computer Systems
+ComponentDesignItemID2=CMP-00026-00002-1
+ComponentSymbolReference2=TLP2368-Symbol-1
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Vault Name
+ComponentLibraryIdentifier3=Equus Computer Systems
+ComponentDesignItemID3=CMP-00028-00040-2
+ComponentSymbolReference3=Jumper 2 NO
+ComponentUpdate3=0
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Vault Name
+ComponentLibraryIdentifier4=Equus Computer Systems
+ComponentDesignItemID4=CMP-00028-00042-1
+ComponentSymbolReference4=3306P-1-102-Symbol-1
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Vault Name
+ComponentLibraryIdentifier5=Equus Computer Systems
+ComponentDesignItemID5=CMP-00028-00043-3
+ComponentSymbolReference5=Mounting Hole NPTH
+ComponentUpdate5=0
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Vault Name
+ComponentLibraryIdentifier6=Equus Computer Systems
+ComponentDesignItemID6=CMP-001-00084-4
+ComponentSymbolReference6=CAP-NP-2
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Vault Name
+ComponentLibraryIdentifier7=Equus Computer Systems
+ComponentDesignItemID7=CMP-001-00100-5
+ComponentSymbolReference7=CAP-P-2
+ComponentUpdate7=0
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Vault Name
+ComponentLibraryIdentifier8=Equus Computer Systems
+ComponentDesignItemID8=CMP-001-00102-4
+ComponentSymbolReference8=CAP-NP-2
+ComponentUpdate8=0
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Vault Name
+ComponentLibraryIdentifier9=Equus Computer Systems
+ComponentDesignItemID9=CMP-001-00121-2
+ComponentSymbolReference9=CAP-NP-2
+ComponentUpdate9=0
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Vault Name
+ComponentLibraryIdentifier10=Equus Computer Systems
+ComponentDesignItemID10=CMP-001-00160-2
+ComponentSymbolReference10=CAP-NP-2
+ComponentUpdate10=0
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Vault Name
+ComponentLibraryIdentifier11=Equus Computer Systems
+ComponentDesignItemID11=CMP-001-00165-2
+ComponentSymbolReference11=CAP-NP-2
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Vault Name
+ComponentLibraryIdentifier12=Equus Computer Systems
+ComponentDesignItemID12=CMP-001-00166-1
+ComponentSymbolReference12=CAP-P-2
+ComponentUpdate12=0
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Vault Name
+ComponentLibraryIdentifier13=Equus Computer Systems
+ComponentDesignItemID13=CMP-001-00167-2
+ComponentSymbolReference13=CAP-NP-2
+ComponentUpdate13=0
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Vault Name
+ComponentLibraryIdentifier14=Equus Computer Systems
+ComponentDesignItemID14=CMP-001-00168-2
+ComponentSymbolReference14=CAP-NP-2
+ComponentUpdate14=0
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Vault Name
+ComponentLibraryIdentifier15=Equus Computer Systems
+ComponentDesignItemID15=CMP-001-00169-2
+ComponentSymbolReference15=CAP-NP-2
+ComponentUpdate15=0
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Vault Name
+ComponentLibraryIdentifier16=Equus Computer Systems
+ComponentDesignItemID16=CMP-001-00170-2
+ComponentSymbolReference16=CAP-NP-2
+ComponentUpdate16=0
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Vault Name
+ComponentLibraryIdentifier17=Equus Computer Systems
+ComponentDesignItemID17=CMP-001-00171-2
+ComponentSymbolReference17=CAP-NP-2
+ComponentUpdate17=0
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Vault Name
+ComponentLibraryIdentifier18=Equus Computer Systems
+ComponentDesignItemID18=CMP-002-00081-5
+ComponentSymbolReference18=HEADER-3x1
+ComponentUpdate18=0
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Vault Name
+ComponentLibraryIdentifier19=Equus Computer Systems
+ComponentDesignItemID19=CMP-002-00082-2
+ComponentSymbolReference19=HEADER-2x1
+ComponentUpdate19=0
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Vault Name
+ComponentLibraryIdentifier20=Equus Computer Systems
+ComponentDesignItemID20=CMP-002-00084-6
+ComponentSymbolReference20=Jumper 3 Bridge 12
+ComponentUpdate20=0
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Vault Name
+ComponentLibraryIdentifier21=Equus Computer Systems
+ComponentDesignItemID21=CMP-002-00086-5
+ComponentSymbolReference21=Jumper 2 NO
+ComponentUpdate21=0
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Vault Name
+ComponentLibraryIdentifier22=Equus Computer Systems
+ComponentDesignItemID22=CMP-002-00191-7
+ComponentSymbolReference22=XLR5-M
+ComponentUpdate22=0
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Vault Name
+ComponentLibraryIdentifier23=Equus Computer Systems
+ComponentDesignItemID23=CMP-002-00192-4
+ComponentSymbolReference23=XLR5-F
+ComponentUpdate23=0
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Vault Name
+ComponentLibraryIdentifier24=Equus Computer Systems
+ComponentDesignItemID24=CMP-002-00208-6
+ComponentSymbolReference24=206832-0801-Symbol-1
+ComponentUpdate24=0
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Vault Name
+ComponentLibraryIdentifier25=Equus Computer Systems
+ComponentDesignItemID25=CMP-002-00210-3
+ComponentSymbolReference25=HEADER-2x1
+ComponentUpdate25=0
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Vault Name
+ComponentLibraryIdentifier26=Equus Computer Systems
+ComponentDesignItemID26=CMP-002-00218-3
+ComponentSymbolReference26=212528-0600-Symbol-1
+ComponentUpdate26=0
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Vault Name
+ComponentLibraryIdentifier27=Equus Computer Systems
+ComponentDesignItemID27=CMP-002-00219-3
+ComponentSymbolReference27=212528-0400-Symbol-1
+ComponentUpdate27=0
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Vault Name
+ComponentLibraryIdentifier28=Equus Computer Systems
+ComponentDesignItemID28=CMP-002-00220-3
+ComponentSymbolReference28=212528-0430-Symbol-1
+ComponentUpdate28=0
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Vault Name
+ComponentLibraryIdentifier29=Equus Computer Systems
+ComponentDesignItemID29=CMP-002-00221-2
+ComponentSymbolReference29=Header 6x2 0.1"
+ComponentUpdate29=0
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Vault Name
+ComponentLibraryIdentifier30=Equus Computer Systems
+ComponentDesignItemID30=CMP-002-00222-3
+ComponentSymbolReference30=Header 3x2 0.1"
+ComponentUpdate30=0
+ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Vault Name
+ComponentLibraryIdentifier31=Equus Computer Systems
+ComponentDesignItemID31=CMP-002-00225-3
+ComponentSymbolReference31=Header 4x2
+ComponentUpdate31=0
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Vault Name
+ComponentLibraryIdentifier32=Equus Computer Systems
+ComponentDesignItemID32=CMP-002-00226-4
+ComponentSymbolReference32=Header 4x2
+ComponentUpdate32=0
+ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Vault Name
+ComponentLibraryIdentifier33=Equus Computer Systems
+ComponentDesignItemID33=CMP-002-00227-2
+ComponentSymbolReference33=Header 4x2
+ComponentUpdate33=0
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Vault Name
+ComponentLibraryIdentifier34=Equus Computer Systems
+ComponentDesignItemID34=CMP-002-00228-3
+ComponentSymbolReference34=Header 5x2 0.1"
+ComponentUpdate34=0
+ComponentIsDeviceSheet34=0
+ComponentLibIdentifierKind35=Vault Name
+ComponentLibraryIdentifier35=Equus Computer Systems
+ComponentDesignItemID35=CMP-002-00229-3
+ComponentSymbolReference35=Header 5x2 0.1"
+ComponentUpdate35=0
+ComponentIsDeviceSheet35=0
+ComponentLibIdentifierKind36=Vault Name
+ComponentLibraryIdentifier36=Equus Computer Systems
+ComponentDesignItemID36=CMP-002-00230-4
+ComponentSymbolReference36=Header 5x2 0.1"
+ComponentUpdate36=0
+ComponentIsDeviceSheet36=0
+ComponentLibIdentifierKind37=Vault Name
+ComponentLibraryIdentifier37=Equus Computer Systems
+ComponentDesignItemID37=CMP-002-00231-1
+ComponentSymbolReference37=206832-0801-Symbol-1
+ComponentUpdate37=0
+ComponentIsDeviceSheet37=0
+ComponentLibIdentifierKind38=Vault Name
+ComponentLibraryIdentifier38=Equus Computer Systems
+ComponentDesignItemID38=CMP-004-00046-2
+ComponentSymbolReference38=DIODE-TVS-2
+ComponentUpdate38=0
+ComponentIsDeviceSheet38=0
+ComponentLibIdentifierKind39=Vault Name
+ComponentLibraryIdentifier39=Equus Computer Systems
+ComponentDesignItemID39=CMP-004-00051-2
+ComponentSymbolReference39=6b4b5b2f550b82c6b4a28adc8367884
+ComponentUpdate39=0
+ComponentIsDeviceSheet39=0
+ComponentLibIdentifierKind40=Vault Name
+ComponentLibraryIdentifier40=Equus Computer Systems
+ComponentDesignItemID40=CMP-004-00052-1
+ComponentSymbolReference40=AP74700QW6-7-Symbol-1
+ComponentUpdate40=0
+ComponentIsDeviceSheet40=0
+ComponentLibIdentifierKind41=Vault Name
+ComponentLibraryIdentifier41=Equus Computer Systems
+ComponentDesignItemID41=CMP-005-00015-4
+ComponentSymbolReference41=LS0504EVT233-Symbol-1
+ComponentUpdate41=0
+ComponentIsDeviceSheet41=0
+ComponentLibIdentifierKind42=Vault Name
+ComponentLibraryIdentifier42=Equus Computer Systems
+ComponentDesignItemID42=CMP-005-00017-1
+ComponentSymbolReference42=Fuse
+ComponentUpdate42=0
+ComponentIsDeviceSheet42=0
+ComponentLibIdentifierKind43=Vault Name
+ComponentLibraryIdentifier43=Equus Computer Systems
+ComponentDesignItemID43=CMP-005-00018-1
+ComponentSymbolReference43=Fuse
+ComponentUpdate43=0
+ComponentIsDeviceSheet43=0
+ComponentLibIdentifierKind44=Vault Name
+ComponentLibraryIdentifier44=Equus Computer Systems
+ComponentDesignItemID44=CMP-006-00028-1
+ComponentSymbolReference44=IND-2
+ComponentUpdate44=0
+ComponentIsDeviceSheet44=0
+ComponentLibIdentifierKind45=Vault Name
+ComponentLibraryIdentifier45=Equus Computer Systems
+ComponentDesignItemID45=CMP-006-00030-2
+ComponentSymbolReference45=IND-2
+ComponentUpdate45=0
+ComponentIsDeviceSheet45=0
+ComponentLibIdentifierKind46=Vault Name
+ComponentLibraryIdentifier46=Equus Computer Systems
+ComponentDesignItemID46=CMP-006-00032-2
+ComponentSymbolReference46=IND-CORE-2
+ComponentUpdate46=0
+ComponentIsDeviceSheet46=0
+ComponentLibIdentifierKind47=Vault Name
+ComponentLibraryIdentifier47=Equus Computer Systems
+ComponentDesignItemID47=CMP-006-00033-2
+ComponentSymbolReference47=IND-CORE-2
+ComponentUpdate47=0
+ComponentIsDeviceSheet47=0
+ComponentLibIdentifierKind48=Vault Name
+ComponentLibraryIdentifier48=Equus Computer Systems
+ComponentDesignItemID48=CMP-009-00204-3
+ComponentSymbolReference48=RES-2
+ComponentUpdate48=0
+ComponentIsDeviceSheet48=0
+ComponentLibIdentifierKind49=Vault Name
+ComponentLibraryIdentifier49=Equus Computer Systems
+ComponentDesignItemID49=CMP-009-00241-5
+ComponentSymbolReference49=Jumper 3 Bridge 12
+ComponentUpdate49=0
+ComponentIsDeviceSheet49=0
+ComponentLibIdentifierKind50=Vault Name
+ComponentLibraryIdentifier50=Equus Computer Systems
+ComponentDesignItemID50=CMP-009-00300-2
+ComponentSymbolReference50=RES-2
+ComponentUpdate50=0
+ComponentIsDeviceSheet50=0
+ComponentLibIdentifierKind51=Vault Name
+ComponentLibraryIdentifier51=Equus Computer Systems
+ComponentDesignItemID51=CMP-009-00301-2
+ComponentSymbolReference51=RES-2
+ComponentUpdate51=0
+ComponentIsDeviceSheet51=0
+ComponentLibIdentifierKind52=Vault Name
+ComponentLibraryIdentifier52=Equus Computer Systems
+ComponentDesignItemID52=CMP-009-00302-2
+ComponentSymbolReference52=RES-2
+ComponentUpdate52=0
+ComponentIsDeviceSheet52=0
+ComponentLibIdentifierKind53=Vault Name
+ComponentLibraryIdentifier53=Equus Computer Systems
+ComponentDesignItemID53=CMP-009-00303-2
+ComponentSymbolReference53=RES-2
+ComponentUpdate53=0
+ComponentIsDeviceSheet53=0
+ComponentLibIdentifierKind54=Vault Name
+ComponentLibraryIdentifier54=Equus Computer Systems
+ComponentDesignItemID54=CMP-009-00304-2
+ComponentSymbolReference54=RES-2
+ComponentUpdate54=0
+ComponentIsDeviceSheet54=0
+ComponentLibIdentifierKind55=Vault Name
+ComponentLibraryIdentifier55=Equus Computer Systems
+ComponentDesignItemID55=CMP-009-00306-2
+ComponentSymbolReference55=RES-2
+ComponentUpdate55=0
+ComponentIsDeviceSheet55=0
+ComponentLibIdentifierKind56=Vault Name
+ComponentLibraryIdentifier56=Equus Computer Systems
+ComponentDesignItemID56=CMP-009-00319-2
+ComponentSymbolReference56=RES-2
+ComponentUpdate56=0
+ComponentIsDeviceSheet56=0
+ComponentLibIdentifierKind57=Vault Name
+ComponentLibraryIdentifier57=Equus Computer Systems
+ComponentDesignItemID57=CMP-009-00328-2
+ComponentSymbolReference57=RES-2
+ComponentUpdate57=0
+ComponentIsDeviceSheet57=0
+ComponentLibIdentifierKind58=Vault Name
+ComponentLibraryIdentifier58=Equus Computer Systems
+ComponentDesignItemID58=CMP-009-00338-2
+ComponentSymbolReference58=RES-2
+ComponentUpdate58=0
+ComponentIsDeviceSheet58=0
+ComponentLibIdentifierKind59=Vault Name
+ComponentLibraryIdentifier59=Equus Computer Systems
+ComponentDesignItemID59=CMP-009-00339-2
+ComponentSymbolReference59=RES-2
+ComponentUpdate59=0
+ComponentIsDeviceSheet59=0
+ComponentLibIdentifierKind60=Vault Name
+ComponentLibraryIdentifier60=Equus Computer Systems
+ComponentDesignItemID60=CMP-009-00340-2
+ComponentSymbolReference60=RES-2
+ComponentUpdate60=0
+ComponentIsDeviceSheet60=0
+ComponentLibIdentifierKind61=Vault Name
+ComponentLibraryIdentifier61=Equus Computer Systems
+ComponentDesignItemID61=CMP-009-00341-2
+ComponentSymbolReference61=Jumper 3 Bridge 12
+ComponentUpdate61=0
+ComponentIsDeviceSheet61=0
+ComponentLibIdentifierKind62=Vault Name
+ComponentLibraryIdentifier62=Equus Computer Systems
+ComponentDesignItemID62=CMP-013-00051-4
+ComponentSymbolReference62=TRANS-MOSFET
+ComponentUpdate62=0
+ComponentIsDeviceSheet62=0
+ComponentLibIdentifierKind63=Vault Name
+ComponentLibraryIdentifier63=Equus Computer Systems
+ComponentDesignItemID63=CMP-013-00052-1
+ComponentSymbolReference63=TRANS-MOSFET
+ComponentUpdate63=0
+ComponentIsDeviceSheet63=0
+ComponentLibIdentifierKind64=Vault Name
+ComponentLibraryIdentifier64=Equus Computer Systems
+ComponentDesignItemID64=CMP-015-00028-2
+ComponentSymbolReference64=THVD1400DR
+ComponentUpdate64=0
+ComponentIsDeviceSheet64=0
+ComponentLibIdentifierKind65=Vault Name
+ComponentLibraryIdentifier65=Equus Computer Systems
+ComponentDesignItemID65=CMP-016-00027-3
+ComponentSymbolReference65=TI-SN_CDX4XXXXXX245XX_6XXX-20
+ComponentUpdate65=0
+ComponentIsDeviceSheet65=0
+ComponentLibIdentifierKind66=Vault Name
+ComponentLibraryIdentifier66=Equus Computer Systems
+ComponentDesignItemID66=CMP-019-00075-1
+ComponentSymbolReference66=R-78K3.3-1.0-Symbol-1
+ComponentUpdate66=0
+ComponentIsDeviceSheet66=0
+ComponentLibIdentifierKind67=Vault Name
+ComponentLibraryIdentifier67=Equus Computer Systems
+ComponentDesignItemID67=CMP-019-00076-2
+ComponentSymbolReference67=PM-REG-L4940-SOT3
+ComponentUpdate67=0
+ComponentIsDeviceSheet67=0
+ComponentLibIdentifierKind68=Vault Name
+ComponentLibraryIdentifier68=Equus Computer Systems
+ComponentDesignItemID68=CMP-019-00078-2
+ComponentSymbolReference68=M24C02-RMN6TP
+ComponentUpdate68=0
+ComponentIsDeviceSheet68=0
+ComponentLibIdentifierKind69=Vault Name
+ComponentLibraryIdentifier69=Equus Computer Systems
+ComponentDesignItemID69=CMP-020-00024-8
+ComponentSymbolReference69=NUCLEO-H563ZI-Symbol-1
+ComponentUpdate69=0
+ComponentIsDeviceSheet69=0
+ComponentLibIdentifierKind70=Vault Name
+ComponentLibraryIdentifier70=Equus Computer Systems
+ComponentDesignItemID70=CMP-031-00011-4
+ComponentSymbolReference70=SC0915-Symbol-1
+ComponentUpdate70=0
+ComponentIsDeviceSheet70=0
+ComponentLibIdentifierKind71=Vault Name
+ComponentLibraryIdentifier71=Equus Computer Systems
+ComponentDesignItemID71=CMP-112-000000-3
+ComponentSymbolReference71=1S7BE_0303S3U
+ComponentUpdate71=0
+ComponentIsDeviceSheet71=0
+ComponentLibIdentifierKind72=Vault Name
+ComponentLibraryIdentifier72=Equus Computer Systems
+ComponentDesignItemID72=CMP-128-000020-5
+ComponentSymbolReference72=SolderBridge0603_On
+ComponentUpdate72=0
+ComponentIsDeviceSheet72=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=Alternate_Manufacturer
+ParameterUpdate0=1
+ParameterName1=Alternate_Manufacturer_Part_Number
+ParameterUpdate1=1
+ParameterName2=BMS_Part_Number
+ParameterUpdate2=1
+ParameterName3=Capacitor Type
+ParameterUpdate3=1
+ParameterName4=Case/Package
+ParameterUpdate4=1
+ParameterName5=Check_prices
+ParameterUpdate5=1
+ParameterName6=Clock Frequency
+ParameterUpdate6=1
+ParameterName7=Comment
+ParameterUpdate7=1
+ParameterName8=Component Kind
+ParameterUpdate8=1
+ParameterName9=Component_Country_Of_Origin
+ParameterUpdate9=1
+ParameterName10=ComponentLink1Description
+ParameterUpdate10=1
+ParameterName11=ComponentLink1URL
+ParameterUpdate11=1
+ParameterName12=Connector Type
+ParameterUpdate12=1
+ParameterName13=Current Rating
+ParameterUpdate13=1
+ParameterName14=Description
+ParameterUpdate14=1
+ParameterName15=Design Item ID
+ParameterUpdate15=1
+ParameterName16=Dropout Voltage
+ParameterUpdate16=1
+ParameterName17=ECCN_EU
+ParameterUpdate17=1
+ParameterName18=ECCN_US
+ParameterUpdate18=1
+ParameterName19=Forward Current
+ParameterUpdate19=1
+ParameterName20=Forward Voltage
+ParameterUpdate20=1
+ParameterName21=Frequency
+ParameterUpdate21=1
+ParameterName22=Gender
+ParameterUpdate22=1
+ParameterName23=I/Os
+ParameterUpdate23=1
+ParameterName24=Initial_Board_Reference
+ParameterUpdate24=1
+ParameterName25=Interface
+ParameterUpdate25=1
+ParameterName26=Internal_Part_Number
+ParameterUpdate26=1
+ParameterName27=JLCPN
+ParameterUpdate27=1
+ParameterName28=Library Reference
+ParameterUpdate28=1
+ParameterName29=Logic Type
+ParameterUpdate29=1
+ParameterName30=Manufacturer
+ParameterUpdate30=1
+ParameterName31=Manufacturer_HQ_COO
+ParameterUpdate31=1
+ParameterName32=Manufacturer_Part_Number
+ParameterUpdate32=1
+ParameterName33=Max Current Rating
+ParameterUpdate33=1
+ParameterName34=Max Operating Temperature
+ParameterUpdate34=1
+ParameterName35=Max Power Dissipation
+ParameterUpdate35=1
+ParameterName36=Max Supply Voltage
+ParameterUpdate36=1
+ParameterName37=Max Surge Current
+ParameterUpdate37=1
+ParameterName38=Memory Format
+ParameterUpdate38=1
+ParameterName39=Memory Size
+ParameterUpdate39=1
+ParameterName40=MF
+ParameterUpdate40=1
+ParameterName41=Min Operating Temperature
+ParameterUpdate41=1
+ParameterName42=Min Supply Voltage
+ParameterUpdate42=1
+ParameterName43=Mounting Technology
+ParameterUpdate43=1
+ParameterName44=MP
+ParameterUpdate44=1
+ParameterName45=Nominal Dual Supply
+ParameterUpdate45=1
+ParameterName46=Nominal Supply Current
+ParameterUpdate46=1
+ParameterName47=Nominal Supply Voltage
+ParameterUpdate47=1
+ParameterName48=Nominal Vgs
+ParameterUpdate48=1
+ParameterName49=Order_Code_Digikey
+ParameterUpdate49=1
+ParameterName50=Order_Code_Farnell
+ParameterUpdate50=1
+ParameterName51=Order_Code_RS
+ParameterUpdate51=1
+ParameterName52=Output Current
+ParameterUpdate52=1
+ParameterName53=Output Function
+ParameterUpdate53=1
+ParameterName54=Output Voltage
+ParameterUpdate54=1
+ParameterName55=Package
+ParameterUpdate55=1
+ParameterName56=Part_Preference
+ParameterUpdate56=1
+ParameterName57=Part_Type
+ParameterUpdate57=1
+ParameterName58=Peak Inverse Voltage
+ParameterUpdate58=1
+ParameterName59=Pins
+ParameterUpdate59=1
+ParameterName60=Power
+ParameterUpdate60=1
+ParameterName61=Provided_By
+ParameterUpdate61=1
+ParameterName62=RAM Size
+ParameterUpdate62=1
+ParameterName63=Revision
+ParameterUpdate63=1
+ParameterName64=Ripple Current
+ParameterUpdate64=1
+ParameterName65=Ripple Current (AC)
+ParameterUpdate65=1
+ParameterName66=RoHS Compliant
+ParameterUpdate66=1
+ParameterName67=Self Resonant Frequency
+ParameterUpdate67=1
+ParameterName68=ShowFields
+ParameterUpdate68=1
+ParameterName69=SnapEDA_Link
+ParameterUpdate69=1
+ParameterName70=Source
+ParameterUpdate70=1
+ParameterName71=Speed
+ParameterUpdate71=1
+ParameterName72=Status
+ParameterUpdate72=1
+ParameterName73=Tolerance
+ParameterUpdate73=1
+ParameterName74=Transistor Type
+ParameterUpdate74=1
+ParameterName75=Value
+ParameterUpdate75=1
+ParameterName76=Vgs (Max)
+ParameterUpdate76=1
+ParameterName77=Vgs(th) (Max) @ Id
+ParameterUpdate77=1
+ParameterName78=Voltage Rating
+ParameterUpdate78=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=206832-0221-Footprint-1
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=206832-0801-Footprint-1
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=212528-0400-Footprint-1
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=212528-0430-Footprint-1
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=212528-0600-Footprint-1
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=212528-0800-Footprint
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=3306P-1-102-Footprint-1
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=CAP_POL_DIAM10_H22_SPACING5
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=CAPC1608X10N_0603_MED
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=CAPC2012X14L_0805_HIGH
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=CAPC2012X14N_0805_MED
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=CAPCP3528X21L_1210_1411_HIGH
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=CAPCP3528X21N_1210_1411_MED
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=CONV_1S7BE_0303S3U
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=FP-M20-9990245-MFG
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=FP-PR20203VBNN-MFG
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=FP-SMAJ-MFG
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=FP-SOT1289B-MFG
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=FP-SOT23-IPC_B
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=FP-SOT23-MFG
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=FP-SRN5040-MFG
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=FUSE3216X04N_1206MED
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=FUSE4532X1.55N_1812MED
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=HEADER 3x2 0.1 Through hole
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=Header 4x2 0.1"
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=Header 4x2 0.1" RA
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=HEADER 5x2 0.1 Through hole
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=Header 5x2 0.1" RA
+ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=HEADER 6x2 0.1 Through hole
+ModelUpdate28=1
+ModelType29=PCBLIB
+ModelName29=IND_SRR6038-180Y
+ModelUpdate29=1
+ModelType30=PCBLIB
+ModelName30=IO-XLR5-F-BH-Footprint-1
+ModelUpdate30=1
+ModelType31=PCBLIB
+ModelName31=IO-XLR5-M-BH-Footprint-1
+ModelUpdate31=1
+ModelType32=PCBLIB
+ModelName32=Jumper 2 x 1 NO 0.1" SMT-Footprint-1
+ModelUpdate32=1
+ModelType33=PCBLIB
+ModelName33=Jumper 3 Bridge 1-2 0603
+ModelUpdate33=1
+ModelType34=PCBLIB
+ModelName34=Jumper 3 Bridge 1-2 0603 Low Density
+ModelUpdate34=1
+ModelType35=PCBLIB
+ModelName35=Jumper 3 Solder Bridge 1-2 0603
+ModelUpdate35=1
+ModelType36=PCBLIB
+ModelName36=Jumper 3 x 1 Bridge 1-2 0603-Footprint-Linear
+ModelUpdate36=1
+ModelType37=PCBLIB
+ModelName37=Jumper 3 x 1 Solder Bridge 1-2 0603
+ModelUpdate37=1
+ModelType38=PCBLIB
+ModelName38=L78M05CDT-TR-Footprint-1
+ModelUpdate38=1
+ModelType39=PCBLIB
+ModelName39=M24C02-RMN6TP-SO8N-IPC_B
+ModelUpdate39=1
+ModelType40=PCBLIB
+ModelName40=M24C02-RMN6TP-SO8N-MFG
+ModelUpdate40=1
+ModelType41=PCBLIB
+ModelName41=Mounting Hole 4-40 No Washer NPTH
+ModelUpdate41=1
+ModelType42=PCBLIB
+ModelName42=Mounting Hole 4-40 With Washer NPTH
+ModelUpdate42=1
+ModelType43=PCBLIB
+ModelName43=Mounting Hole 6-32 No Washer NPTH
+ModelUpdate43=1
+ModelType44=PCBLIB
+ModelName44=Mounting Hole 6-32 With Washer NPTH
+ModelUpdate44=1
+ModelType45=PCBLIB
+ModelName45=Mounting Hole M3 Loose With Washer NPTH
+ModelUpdate45=1
+ModelType46=PCBLIB
+ModelName46=Mounting Hole M3 No Washer NPTH
+ModelUpdate46=1
+ModelType47=PCBLIB
+ModelName47=Mounting Hole M3 With Washer NPTH
+ModelUpdate47=1
+ModelType48=PCBLIB
+ModelName48=NUCLEO-H563ZI-Above-Footprint
+ModelUpdate48=1
+ModelType49=PCBLIB
+ModelName49=NUCLEO-H563ZI-Below-Footprint
+ModelUpdate49=1
+ModelType50=PCBLIB
+ModelName50=PW0020A_L
+ModelUpdate50=1
+ModelType51=PCBLIB
+ModelName51=PW0020A_M
+ModelUpdate51=1
+ModelType52=PCBLIB
+ModelName52=PW0020A_N
+ModelUpdate52=1
+ModelType53=PCBLIB
+ModelName53=PW0028A_L
+ModelUpdate53=1
+ModelType54=PCBLIB
+ModelName54=PW0028A_M
+ModelUpdate54=1
+ModelType55=PCBLIB
+ModelName55=PW0028A_N
+ModelUpdate55=1
+ModelType56=PCBLIB
+ModelName56=R-78K3.3-1.0-Footprint-1
+ModelUpdate56=1
+ModelType57=PCBLIB
+ModelName57=RESC1608X06L_0603_HIGH
+ModelUpdate57=1
+ModelType58=PCBLIB
+ModelName58=RESC1608X06N_0603_MED
+ModelUpdate58=1
+ModelType59=PCBLIB
+ModelName59=RESC640320X70_CRG2512_M
+ModelUpdate59=1
+ModelType60=PCBLIB
+ModelName60=RESC640320X70_CRG2512_MFG
+ModelUpdate60=1
+ModelType61=PCBLIB
+ModelName61=SC0915-Footprint-1
+ModelUpdate61=1
+ModelType62=PCBLIB
+ModelName62=SC0915-Footprint-NoDEBUG
+ModelUpdate62=1
+ModelType63=PCBLIB
+ModelName63=Socket 4x2 0.1" RA
+ModelUpdate63=1
+ModelType64=PCBLIB
+ModelName64=Socket 5x2 0.1" RA Through Hole
+ModelUpdate64=1
+ModelType65=PCBLIB
+ModelName65=SOIC127P600X175-8N
+ModelUpdate65=1
+ModelType66=PCBLIB
+ModelName66=SOLDER-BRIDGE_R0603-0R
+ModelUpdate66=1
+ModelType67=PCBLIB
+ModelName67=SOT125P700X220-5N
+ModelUpdate67=1
+ModelType68=PCBLIB
+ModelName68=SOT230P700X180-4N
+ModelUpdate68=1
+ModelType69=PCBLIB
+ModelName69=SOT95P280X100-3N
+ModelUpdate69=1
+ModelType70=PCBLIB
+ModelName70=SOT95P285X130-6N
+ModelUpdate70=1
+ModelType71=PCBLIB
+ModelName71=SPM6545VT-330M-D-Footprint-1
+ModelUpdate71=1
+ModelType72=PCBLIB
+ModelName72=SRN5040-100M-Footprint-handsolder
+ModelUpdate72=1
+ModelType73=PCBLIB
+ModelName73=TPS92205x_TSOP65P490X110_HS-9N
+ModelUpdate73=1
+ModelType74=PCBLIB
+ModelName74=WE-MAPI_3020
+ModelUpdate74=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+ComponentLibIdentifierKind0=Vault Name
+ComponentLibraryIdentifier0=Equus Computer Systems
+ComponentDesignItemID0=CMP-00023-00008-2
+ComponentSymbolReference0=ABM8-272-T3-Symbol-1
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Vault Name
+ComponentLibraryIdentifier1=Equus Computer Systems
+ComponentDesignItemID1=CMP-00024-00008-1
+ComponentSymbolReference1=TI-TLC59116PW28
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Vault Name
+ComponentLibraryIdentifier2=Equus Computer Systems
+ComponentDesignItemID2=CMP-00026-00001-1
+ComponentSymbolReference2=6N137S-TA1-Symbol-1
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Vault Name
+ComponentLibraryIdentifier3=Equus Computer Systems
+ComponentDesignItemID3=CMP-00028-00008-6
+ComponentSymbolReference3=Mounting Hole
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Vault Name
+ComponentLibraryIdentifier4=Equus Computer Systems
+ComponentDesignItemID4=CMP-00028-00038-1
+ComponentSymbolReference4=Switch - Momentary, 2 pin
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Vault Name
+ComponentLibraryIdentifier5=Equus Computer Systems
+ComponentDesignItemID5=CMP-00028-00040-2
+ComponentSymbolReference5=Jumper 2 NO
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Vault Name
+ComponentLibraryIdentifier6=Equus Computer Systems
+ComponentDesignItemID6=CMP-00028-00042-1
+ComponentSymbolReference6=3306P-1-102-Symbol-1
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Vault Name
+ComponentLibraryIdentifier7=Equus Computer Systems
+ComponentDesignItemID7=CMP-00028-00043-3
+ComponentSymbolReference7=Mounting Hole NPTH
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Vault Name
+ComponentLibraryIdentifier8=Equus Computer Systems
+ComponentDesignItemID8=CMP-001-00084-3
+ComponentSymbolReference8=CAP-NP-2
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Vault Name
+ComponentLibraryIdentifier9=Equus Computer Systems
+ComponentDesignItemID9=CMP-001-00100-4
+ComponentSymbolReference9=CAP-P-2
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Vault Name
+ComponentLibraryIdentifier10=Equus Computer Systems
+ComponentDesignItemID10=CMP-001-00102-3
+ComponentSymbolReference10=CAP-NP-2
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Vault Name
+ComponentLibraryIdentifier11=Equus Computer Systems
+ComponentDesignItemID11=CMP-001-00103-1
+ComponentSymbolReference11=CAP-NP-2
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Vault Name
+ComponentLibraryIdentifier12=Equus Computer Systems
+ComponentDesignItemID12=CMP-001-00107-2
+ComponentSymbolReference12=CAP-NP-2
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Vault Name
+ComponentLibraryIdentifier13=Equus Computer Systems
+ComponentDesignItemID13=CMP-001-00112-1
+ComponentSymbolReference13=CAP-NP-2
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Vault Name
+ComponentLibraryIdentifier14=Equus Computer Systems
+ComponentDesignItemID14=CMP-001-00121-1
+ComponentSymbolReference14=CAP-NP-2
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Vault Name
+ComponentLibraryIdentifier15=Equus Computer Systems
+ComponentDesignItemID15=CMP-001-00122-1
+ComponentSymbolReference15=CAP-NP-2
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Vault Name
+ComponentLibraryIdentifier16=Equus Computer Systems
+ComponentDesignItemID16=CMP-001-00154-1
+ComponentSymbolReference16=CAP-NP-2
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Vault Name
+ComponentLibraryIdentifier17=Equus Computer Systems
+ComponentDesignItemID17=CMP-001-00155-1
+ComponentSymbolReference17=CAP-NP-2
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Vault Name
+ComponentLibraryIdentifier18=Equus Computer Systems
+ComponentDesignItemID18=CMP-001-00156-1
+ComponentSymbolReference18=CAP-NP-2
+ComponentUpdate18=1
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Vault Name
+ComponentLibraryIdentifier19=Equus Computer Systems
+ComponentDesignItemID19=CMP-001-00157-1
+ComponentSymbolReference19=CAP-NP-2
+ComponentUpdate19=1
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Vault Name
+ComponentLibraryIdentifier20=Equus Computer Systems
+ComponentDesignItemID20=CMP-001-00158-1
+ComponentSymbolReference20=CAP-NP-2
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Vault Name
+ComponentLibraryIdentifier21=Equus Computer Systems
+ComponentDesignItemID21=CMP-001-00159-1
+ComponentSymbolReference21=CAP-NP-2
+ComponentUpdate21=1
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Vault Name
+ComponentLibraryIdentifier22=Equus Computer Systems
+ComponentDesignItemID22=CMP-001-00161-1
+ComponentSymbolReference22=CAP-NP-2
+ComponentUpdate22=1
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Vault Name
+ComponentLibraryIdentifier23=Equus Computer Systems
+ComponentDesignItemID23=CMP-001-00163-1
+ComponentSymbolReference23=CAP-NP-2
+ComponentUpdate23=1
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Vault Name
+ComponentLibraryIdentifier24=Equus Computer Systems
+ComponentDesignItemID24=CMP-001-00165-1
+ComponentSymbolReference24=CAP-NP-2
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Vault Name
+ComponentLibraryIdentifier25=Equus Computer Systems
+ComponentDesignItemID25=CMP-001-00166-1
+ComponentSymbolReference25=CAP-P-2
+ComponentUpdate25=1
+ComponentIsDeviceSheet25=0
+ComponentLibIdentifierKind26=Vault Name
+ComponentLibraryIdentifier26=Equus Computer Systems
+ComponentDesignItemID26=CMP-001-00167-1
+ComponentSymbolReference26=CAP-NP-2
+ComponentUpdate26=1
+ComponentIsDeviceSheet26=0
+ComponentLibIdentifierKind27=Vault Name
+ComponentLibraryIdentifier27=Equus Computer Systems
+ComponentDesignItemID27=CMP-002-00081-5
+ComponentSymbolReference27=HEADER-3x1
+ComponentUpdate27=1
+ComponentIsDeviceSheet27=0
+ComponentLibIdentifierKind28=Vault Name
+ComponentLibraryIdentifier28=Equus Computer Systems
+ComponentDesignItemID28=CMP-002-00082-2
+ComponentSymbolReference28=HEADER-2x1
+ComponentUpdate28=1
+ComponentIsDeviceSheet28=0
+ComponentLibIdentifierKind29=Vault Name
+ComponentLibraryIdentifier29=Equus Computer Systems
+ComponentDesignItemID29=CMP-002-00084-5
+ComponentSymbolReference29=Jumper 3 Bridge 12
+ComponentUpdate29=1
+ComponentIsDeviceSheet29=0
+ComponentLibIdentifierKind30=Vault Name
+ComponentLibraryIdentifier30=Equus Computer Systems
+ComponentDesignItemID30=CMP-002-00086-5
+ComponentSymbolReference30=Jumper 2 NO
+ComponentUpdate30=1
+ComponentIsDeviceSheet30=0
+ComponentLibIdentifierKind31=Vault Name
+ComponentLibraryIdentifier31=Equus Computer Systems
+ComponentDesignItemID31=CMP-002-00191-7
+ComponentSymbolReference31=XLR5-M
+ComponentUpdate31=1
+ComponentIsDeviceSheet31=0
+ComponentLibIdentifierKind32=Vault Name
+ComponentLibraryIdentifier32=Equus Computer Systems
+ComponentDesignItemID32=CMP-002-00192-4
+ComponentSymbolReference32=XLR5-F
+ComponentUpdate32=1
+ComponentIsDeviceSheet32=0
+ComponentLibIdentifierKind33=Vault Name
+ComponentLibraryIdentifier33=Equus Computer Systems
+ComponentDesignItemID33=CMP-002-00194-1
+ComponentSymbolReference33=Header 10x2 0.1" SMT
+ComponentUpdate33=1
+ComponentIsDeviceSheet33=0
+ComponentLibIdentifierKind34=Vault Name
+ComponentLibraryIdentifier34=Equus Computer Systems
+ComponentDesignItemID34=CMP-002-00195-1
+ComponentSymbolReference34=Header 7x2
+ComponentUpdate34=1
+ComponentIsDeviceSheet34=0
+ComponentLibIdentifierKind35=Vault Name
+ComponentLibraryIdentifier35=Equus Computer Systems
+ComponentDesignItemID35=CMP-002-00205-1
+ComponentSymbolReference35=USB-C_USB2
+ComponentUpdate35=1
+ComponentIsDeviceSheet35=0
+ComponentLibIdentifierKind36=Vault Name
+ComponentLibraryIdentifier36=Equus Computer Systems
+ComponentDesignItemID36=CMP-002-00208-6
+ComponentSymbolReference36=206832-0801-Symbol-1
+ComponentUpdate36=1
+ComponentIsDeviceSheet36=0
+ComponentLibIdentifierKind37=Vault Name
+ComponentLibraryIdentifier37=Equus Computer Systems
+ComponentDesignItemID37=CMP-002-00210-3
+ComponentSymbolReference37=HEADER-2x1
+ComponentUpdate37=1
+ComponentIsDeviceSheet37=0
+ComponentLibIdentifierKind38=Vault Name
+ComponentLibraryIdentifier38=Equus Computer Systems
+ComponentDesignItemID38=CMP-002-00211-1
+ComponentSymbolReference38=HEADER-15x2
+ComponentUpdate38=1
+ComponentIsDeviceSheet38=0
+ComponentLibIdentifierKind39=Vault Name
+ComponentLibraryIdentifier39=Equus Computer Systems
+ComponentDesignItemID39=CMP-002-00212-1
+ComponentSymbolReference39=ARJM11C7-009-AB-EW2-Symbol-1
+ComponentUpdate39=1
+ComponentIsDeviceSheet39=0
+ComponentLibIdentifierKind40=Vault Name
+ComponentLibraryIdentifier40=Equus Computer Systems
+ComponentDesignItemID40=CMP-002-00218-3
+ComponentSymbolReference40=212528-0600-Symbol-1
+ComponentUpdate40=1
+ComponentIsDeviceSheet40=0
+ComponentLibIdentifierKind41=Vault Name
+ComponentLibraryIdentifier41=Equus Computer Systems
+ComponentDesignItemID41=CMP-002-00219-3
+ComponentSymbolReference41=212528-0400-Symbol-1
+ComponentUpdate41=1
+ComponentIsDeviceSheet41=0
+ComponentLibIdentifierKind42=Vault Name
+ComponentLibraryIdentifier42=Equus Computer Systems
+ComponentDesignItemID42=CMP-002-00220-3
+ComponentSymbolReference42=212528-0430-Symbol-1
+ComponentUpdate42=1
+ComponentIsDeviceSheet42=0
+ComponentLibIdentifierKind43=Vault Name
+ComponentLibraryIdentifier43=Equus Computer Systems
+ComponentDesignItemID43=CMP-002-00221-1
+ComponentSymbolReference43=Header 6x2 0.1"
+ComponentUpdate43=1
+ComponentIsDeviceSheet43=0
+ComponentLibIdentifierKind44=Vault Name
+ComponentLibraryIdentifier44=Equus Computer Systems
+ComponentDesignItemID44=CMP-002-00225-2
+ComponentSymbolReference44=Header 4x2
+ComponentUpdate44=1
+ComponentIsDeviceSheet44=0
+ComponentLibIdentifierKind45=Vault Name
+ComponentLibraryIdentifier45=Equus Computer Systems
+ComponentDesignItemID45=CMP-002-00226-3
+ComponentSymbolReference45=Header 4x2
+ComponentUpdate45=1
+ComponentIsDeviceSheet45=0
+ComponentLibIdentifierKind46=Vault Name
+ComponentLibraryIdentifier46=Equus Computer Systems
+ComponentDesignItemID46=CMP-002-00227-1
+ComponentSymbolReference46=Header 4x2
+ComponentUpdate46=1
+ComponentIsDeviceSheet46=0
+ComponentLibIdentifierKind47=Vault Name
+ComponentLibraryIdentifier47=Equus Computer Systems
+ComponentDesignItemID47=CMP-002-00228-2
+ComponentSymbolReference47=Header 5x2 0.1"
+ComponentUpdate47=1
+ComponentIsDeviceSheet47=0
+ComponentLibIdentifierKind48=Vault Name
+ComponentLibraryIdentifier48=Equus Computer Systems
+ComponentDesignItemID48=CMP-002-00229-2
+ComponentSymbolReference48=Header 5x2 0.1"
+ComponentUpdate48=1
+ComponentIsDeviceSheet48=0
+ComponentLibIdentifierKind49=Vault Name
+ComponentLibraryIdentifier49=Equus Computer Systems
+ComponentDesignItemID49=CMP-002-00230-3
+ComponentSymbolReference49=Header 5x2 0.1"
+ComponentUpdate49=1
+ComponentIsDeviceSheet49=0
+ComponentLibIdentifierKind50=Vault Name
+ComponentLibraryIdentifier50=Equus Computer Systems
+ComponentDesignItemID50=CMP-003-00038-2
+ComponentSymbolReference50=NX2016SA-25MHZ-EXS00A-CS11321
+ComponentUpdate50=1
+ComponentIsDeviceSheet50=0
+ComponentLibIdentifierKind51=Vault Name
+ComponentLibraryIdentifier51=Equus Computer Systems
+ComponentDesignItemID51=CMP-003-00039-2
+ComponentSymbolReference51=XTAL-2
+ComponentUpdate51=1
+ComponentIsDeviceSheet51=0
+ComponentLibIdentifierKind52=Vault Name
+ComponentLibraryIdentifier52=Equus Computer Systems
+ComponentDesignItemID52=CMP-004-00043-2
+ComponentSymbolReference52=BAT54KFILM
+ComponentUpdate52=1
+ComponentIsDeviceSheet52=0
+ComponentLibIdentifierKind53=Vault Name
+ComponentLibraryIdentifier53=Equus Computer Systems
+ComponentDesignItemID53=CMP-004-00046-1
+ComponentSymbolReference53=DIODE-TVS-2
+ComponentUpdate53=1
+ComponentIsDeviceSheet53=0
+ComponentLibIdentifierKind54=Vault Name
+ComponentLibraryIdentifier54=Equus Computer Systems
+ComponentDesignItemID54=CMP-004-00047-2
+ComponentSymbolReference54=AP74701QTA8-7-Symbol-1
+ComponentUpdate54=1
+ComponentIsDeviceSheet54=0
+ComponentLibIdentifierKind55=Vault Name
+ComponentLibraryIdentifier55=Equus Computer Systems
+ComponentDesignItemID55=CMP-004-00048-2
+ComponentSymbolReference55=DIODE-TVS-2
+ComponentUpdate55=1
+ComponentIsDeviceSheet55=0
+ComponentLibIdentifierKind56=Vault Name
+ComponentLibraryIdentifier56=Equus Computer Systems
+ComponentDesignItemID56=CMP-004-00049-1
+ComponentSymbolReference56=ESDA6V1-5W6
+ComponentUpdate56=1
+ComponentIsDeviceSheet56=0
+ComponentLibIdentifierKind57=Vault Name
+ComponentLibraryIdentifier57=Equus Computer Systems
+ComponentDesignItemID57=CMP-004-00050-1
+ComponentSymbolReference57=SP03-6BTG
+ComponentUpdate57=1
+ComponentIsDeviceSheet57=0
+ComponentLibIdentifierKind58=Vault Name
+ComponentLibraryIdentifier58=Equus Computer Systems
+ComponentDesignItemID58=CMP-005-00015-4
+ComponentSymbolReference58=LS0504EVT233-Symbol-1
+ComponentUpdate58=1
+ComponentIsDeviceSheet58=0
+ComponentLibIdentifierKind59=Vault Name
+ComponentLibraryIdentifier59=Equus Computer Systems
+ComponentDesignItemID59=CMP-005-00017-1
+ComponentSymbolReference59=Fuse
+ComponentUpdate59=1
+ComponentIsDeviceSheet59=0
+ComponentLibIdentifierKind60=Vault Name
+ComponentLibraryIdentifier60=Equus Computer Systems
+ComponentDesignItemID60=CMP-005-00018-1
+ComponentSymbolReference60=Fuse
+ComponentUpdate60=1
+ComponentIsDeviceSheet60=0
+ComponentLibIdentifierKind61=Vault Name
+ComponentLibraryIdentifier61=Equus Computer Systems
+ComponentDesignItemID61=CMP-006-00028-1
+ComponentSymbolReference61=IND-2
+ComponentUpdate61=1
+ComponentIsDeviceSheet61=0
+ComponentLibIdentifierKind62=Vault Name
+ComponentLibraryIdentifier62=Equus Computer Systems
+ComponentDesignItemID62=CMP-006-00029-2
+ComponentSymbolReference62=BLM18AG601SN1D
+ComponentUpdate62=1
+ComponentIsDeviceSheet62=0
+ComponentLibIdentifierKind63=Vault Name
+ComponentLibraryIdentifier63=Equus Computer Systems
+ComponentDesignItemID63=CMP-006-00030-1
+ComponentSymbolReference63=IND-2
+ComponentUpdate63=1
+ComponentIsDeviceSheet63=0
+ComponentLibIdentifierKind64=Vault Name
+ComponentLibraryIdentifier64=Equus Computer Systems
+ComponentDesignItemID64=CMP-007-00056-2
+ComponentSymbolReference64=LED Green
+ComponentUpdate64=1
+ComponentIsDeviceSheet64=0
+ComponentLibIdentifierKind65=Vault Name
+ComponentLibraryIdentifier65=Equus Computer Systems
+ComponentDesignItemID65=CMP-007-00057-2
+ComponentSymbolReference65=LED Red
+ComponentUpdate65=1
+ComponentIsDeviceSheet65=0
+ComponentLibIdentifierKind66=Vault Name
+ComponentLibraryIdentifier66=Equus Computer Systems
+ComponentDesignItemID66=CMP-007-00058-2
+ComponentSymbolReference66=LED Blue
+ComponentUpdate66=1
+ComponentIsDeviceSheet66=0
+ComponentLibIdentifierKind67=Vault Name
+ComponentLibraryIdentifier67=Equus Computer Systems
+ComponentDesignItemID67=CMP-009-00204-2
+ComponentSymbolReference67=RES-2
+ComponentUpdate67=1
+ComponentIsDeviceSheet67=0
+ComponentLibIdentifierKind68=Vault Name
+ComponentLibraryIdentifier68=Equus Computer Systems
+ComponentDesignItemID68=CMP-009-00233-3
+ComponentSymbolReference68=RES-2
+ComponentUpdate68=1
+ComponentIsDeviceSheet68=0
+ComponentLibIdentifierKind69=Vault Name
+ComponentLibraryIdentifier69=Equus Computer Systems
+ComponentDesignItemID69=CMP-009-00241-3
+ComponentSymbolReference69=Jumper 3 Bridge 12
+ComponentUpdate69=1
+ComponentIsDeviceSheet69=0
+ComponentLibIdentifierKind70=Vault Name
+ComponentLibraryIdentifier70=Equus Computer Systems
+ComponentDesignItemID70=CMP-009-00300-1
+ComponentSymbolReference70=RES-2
+ComponentUpdate70=1
+ComponentIsDeviceSheet70=0
+ComponentLibIdentifierKind71=Vault Name
+ComponentLibraryIdentifier71=Equus Computer Systems
+ComponentDesignItemID71=CMP-009-00301-1
+ComponentSymbolReference71=RES-2
+ComponentUpdate71=1
+ComponentIsDeviceSheet71=0
+ComponentLibIdentifierKind72=Vault Name
+ComponentLibraryIdentifier72=Equus Computer Systems
+ComponentDesignItemID72=CMP-009-00302-1
+ComponentSymbolReference72=RES-2
+ComponentUpdate72=1
+ComponentIsDeviceSheet72=0
+ComponentLibIdentifierKind73=Vault Name
+ComponentLibraryIdentifier73=Equus Computer Systems
+ComponentDesignItemID73=CMP-009-00303-1
+ComponentSymbolReference73=RES-2
+ComponentUpdate73=1
+ComponentIsDeviceSheet73=0
+ComponentLibIdentifierKind74=Vault Name
+ComponentLibraryIdentifier74=Equus Computer Systems
+ComponentDesignItemID74=CMP-009-00304-1
+ComponentSymbolReference74=RES-2
+ComponentUpdate74=1
+ComponentIsDeviceSheet74=0
+ComponentLibIdentifierKind75=Vault Name
+ComponentLibraryIdentifier75=Equus Computer Systems
+ComponentDesignItemID75=CMP-009-00305-2
+ComponentSymbolReference75=Jumper 3 Bridge 12
+ComponentUpdate75=1
+ComponentIsDeviceSheet75=0
+ComponentLibIdentifierKind76=Vault Name
+ComponentLibraryIdentifier76=Equus Computer Systems
+ComponentDesignItemID76=CMP-009-00306-1
+ComponentSymbolReference76=RES-2
+ComponentUpdate76=1
+ComponentIsDeviceSheet76=0
+ComponentLibIdentifierKind77=Vault Name
+ComponentLibraryIdentifier77=Equus Computer Systems
+ComponentDesignItemID77=CMP-009-00308-2
+ComponentSymbolReference77=RES-2
+ComponentUpdate77=1
+ComponentIsDeviceSheet77=0
+ComponentLibIdentifierKind78=Vault Name
+ComponentLibraryIdentifier78=Equus Computer Systems
+ComponentDesignItemID78=CMP-009-00309-2
+ComponentSymbolReference78=RES-2
+ComponentUpdate78=1
+ComponentIsDeviceSheet78=0
+ComponentLibIdentifierKind79=Vault Name
+ComponentLibraryIdentifier79=Equus Computer Systems
+ComponentDesignItemID79=CMP-009-00310-1
+ComponentSymbolReference79=RES-2
+ComponentUpdate79=1
+ComponentIsDeviceSheet79=0
+ComponentLibIdentifierKind80=Vault Name
+ComponentLibraryIdentifier80=Equus Computer Systems
+ComponentDesignItemID80=CMP-009-00311-2
+ComponentSymbolReference80=RES-2
+ComponentUpdate80=1
+ComponentIsDeviceSheet80=0
+ComponentLibIdentifierKind81=Vault Name
+ComponentLibraryIdentifier81=Equus Computer Systems
+ComponentDesignItemID81=CMP-009-00313-2
+ComponentSymbolReference81=RES-2
+ComponentUpdate81=1
+ComponentIsDeviceSheet81=0
+ComponentLibIdentifierKind82=Vault Name
+ComponentLibraryIdentifier82=Equus Computer Systems
+ComponentDesignItemID82=CMP-009-00314-2
+ComponentSymbolReference82=RES-2
+ComponentUpdate82=1
+ComponentIsDeviceSheet82=0
+ComponentLibIdentifierKind83=Vault Name
+ComponentLibraryIdentifier83=Equus Computer Systems
+ComponentDesignItemID83=CMP-009-00315-2
+ComponentSymbolReference83=RES-2
+ComponentUpdate83=1
+ComponentIsDeviceSheet83=0
+ComponentLibIdentifierKind84=Vault Name
+ComponentLibraryIdentifier84=Equus Computer Systems
+ComponentDesignItemID84=CMP-009-00316-2
+ComponentSymbolReference84=RES-2
+ComponentUpdate84=1
+ComponentIsDeviceSheet84=0
+ComponentLibIdentifierKind85=Vault Name
+ComponentLibraryIdentifier85=Equus Computer Systems
+ComponentDesignItemID85=CMP-009-00317-2
+ComponentSymbolReference85=RES-2
+ComponentUpdate85=1
+ComponentIsDeviceSheet85=0
+ComponentLibIdentifierKind86=Vault Name
+ComponentLibraryIdentifier86=Equus Computer Systems
+ComponentDesignItemID86=CMP-009-00318-2
+ComponentSymbolReference86=RES-2
+ComponentUpdate86=1
+ComponentIsDeviceSheet86=0
+ComponentLibIdentifierKind87=Vault Name
+ComponentLibraryIdentifier87=Equus Computer Systems
+ComponentDesignItemID87=CMP-009-00319-1
+ComponentSymbolReference87=RES-2
+ComponentUpdate87=1
+ComponentIsDeviceSheet87=0
+ComponentLibIdentifierKind88=Vault Name
+ComponentLibraryIdentifier88=Equus Computer Systems
+ComponentDesignItemID88=CMP-009-00328-1
+ComponentSymbolReference88=RES-2
+ComponentUpdate88=1
+ComponentIsDeviceSheet88=0
+ComponentLibIdentifierKind89=Vault Name
+ComponentLibraryIdentifier89=Equus Computer Systems
+ComponentDesignItemID89=CMP-009-00329-1
+ComponentSymbolReference89=RES-2
+ComponentUpdate89=1
+ComponentIsDeviceSheet89=0
+ComponentLibIdentifierKind90=Vault Name
+ComponentLibraryIdentifier90=Equus Computer Systems
+ComponentDesignItemID90=CMP-009-00330-1
+ComponentSymbolReference90=RES-2
+ComponentUpdate90=1
+ComponentIsDeviceSheet90=0
+ComponentLibIdentifierKind91=Vault Name
+ComponentLibraryIdentifier91=Equus Computer Systems
+ComponentDesignItemID91=CMP-009-00331-1
+ComponentSymbolReference91=RES-2
+ComponentUpdate91=1
+ComponentIsDeviceSheet91=0
+ComponentLibIdentifierKind92=Vault Name
+ComponentLibraryIdentifier92=Equus Computer Systems
+ComponentDesignItemID92=CMP-013-00050-1
+ComponentSymbolReference92=TRANS-MOSFET
+ComponentUpdate92=1
+ComponentIsDeviceSheet92=0
+ComponentLibIdentifierKind93=Vault Name
+ComponentLibraryIdentifier93=Equus Computer Systems
+ComponentDesignItemID93=CMP-015-00028-1
+ComponentSymbolReference93=THVD1400DR
+ComponentUpdate93=1
+ComponentIsDeviceSheet93=0
+ComponentLibIdentifierKind94=Vault Name
+ComponentLibraryIdentifier94=Equus Computer Systems
+ComponentDesignItemID94=CMP-016-00027-2
+ComponentSymbolReference94=TI-SN_CDX4XXXXXX245XX_6XXX-20
+ComponentUpdate94=1
+ComponentIsDeviceSheet94=0
+ComponentLibIdentifierKind95=Vault Name
+ComponentLibraryIdentifier95=Equus Computer Systems
+ComponentDesignItemID95=CMP-019-00074-1
+ComponentSymbolReference95=W25Q128JVSIQ TR-Symbol-1
+ComponentUpdate95=1
+ComponentIsDeviceSheet95=0
+ComponentLibIdentifierKind96=Vault Name
+ComponentLibraryIdentifier96=Equus Computer Systems
+ComponentDesignItemID96=CMP-019-00075-1
+ComponentSymbolReference96=R-78K3.3-1.0-Symbol-1
+ComponentUpdate96=1
+ComponentIsDeviceSheet96=0
+ComponentLibIdentifierKind97=Vault Name
+ComponentLibraryIdentifier97=Equus Computer Systems
+ComponentDesignItemID97=CMP-019-00076-1
+ComponentSymbolReference97=PM-REG-L4940-SOT3
+ComponentUpdate97=1
+ComponentIsDeviceSheet97=0
+ComponentLibIdentifierKind98=Vault Name
+ComponentLibraryIdentifier98=Equus Computer Systems
+ComponentDesignItemID98=CMP-031-00010-3
+ComponentSymbolReference98=SC0914(13)
+ComponentUpdate98=1
+ComponentIsDeviceSheet98=0
+ComponentLibIdentifierKind99=Vault Name
+ComponentLibraryIdentifier99=Equus Computer Systems
+ComponentDesignItemID99=CMP-112-000000-3
+ComponentSymbolReference99=1S7BE_0303S3U
+ComponentUpdate99=1
+ComponentIsDeviceSheet99=0
+ComponentLibIdentifierKind100=Vault Name
+ComponentLibraryIdentifier100=Equus Computer Systems
+ComponentDesignItemID100=CMP-128-000000-2
+ComponentSymbolReference100=BSR14
+ComponentUpdate100=1
+ComponentIsDeviceSheet100=0
+ComponentLibIdentifierKind101=Vault Name
+ComponentLibraryIdentifier101=Equus Computer Systems
+ComponentDesignItemID101=CMP-128-000003-2
+ComponentSymbolReference101=TCPP01-M12
+ComponentUpdate101=1
+ComponentIsDeviceSheet101=0
+ComponentLibIdentifierKind102=Vault Name
+ComponentLibraryIdentifier102=Equus Computer Systems
+ComponentDesignItemID102=CMP-128-000005-2
+ComponentSymbolReference102=STL11N3LLH6
+ComponentUpdate102=1
+ComponentIsDeviceSheet102=0
+ComponentLibIdentifierKind103=Vault Name
+ComponentLibraryIdentifier103=Equus Computer Systems
+ComponentDesignItemID103=CMP-128-000006-2
+ComponentSymbolReference103=USBLC6-2SC6
+ComponentUpdate103=1
+ComponentIsDeviceSheet103=0
+ComponentLibIdentifierKind104=Vault Name
+ComponentLibraryIdentifier104=Equus Computer Systems
+ComponentDesignItemID104=CMP-128-000016-2
+ComponentSymbolReference104=STM32H563ZIT6
+ComponentUpdate104=1
+ComponentIsDeviceSheet104=0
+ComponentLibIdentifierKind105=Vault Name
+ComponentLibraryIdentifier105=Equus Computer Systems
+ComponentDesignItemID105=CMP-128-000017-2
+ComponentSymbolReference105=ESDA25P35-1U1M
+ComponentUpdate105=1
+ComponentIsDeviceSheet105=0
+ComponentLibIdentifierKind106=Vault Name
+ComponentLibraryIdentifier106=Equus Computer Systems
+ComponentDesignItemID106=CMP-128-000018-3
+ComponentSymbolReference106=LAN8742A-CZ-TR
+ComponentUpdate106=1
+ComponentIsDeviceSheet106=0
+ComponentLibIdentifierKind107=Vault Name
+ComponentLibraryIdentifier107=Equus Computer Systems
+ComponentDesignItemID107=CMP-128-000020-4
+ComponentSymbolReference107=SolderBridge0603_On
+ComponentUpdate107=1
+ComponentIsDeviceSheet107=0
+
+[NetInfos]
+Net1=NetName=3V3|NetColor=clAqua
+Net2=NetName=5V|NetColor=clLime
+Net3=NetName=5V_LVL_SHIFT|NetColor=clLime
+Net4=NetName=5V_RP2040|NetColor=clYellow
+Net5=NetName=5V_RP2040_FUSED|NetColor=clYellow
+Net6=NetName=5V_STM32|NetColor=$000090BF
+Net7=NetName=5V_STM32_FUSED|NetColor=$000090BF
+Net8=NetName=5V_UCPD|NetColor=$000099FF
+Net9=NetName=5V_UCPD_FUSED|NetColor=$000099FF
+Net10=NetName=JTCK|NetColor=clBlack
+Net11=NetName=JTCK_SWCLK|NetColor=$000099FF
+Net12=NetName=JTDI|NetColor=$000099FF
+Net13=NetName=JTDO|NetColor=clBlack
+Net14=NetName=JTDO_SWO|NetColor=$000099FF
+Net15=NetName=JTMS|NetColor=clBlack
+Net16=NetName=JTMS_SWDIO|NetColor=$000099FF
+Net17=NetName=LED1.Clock|NetColor=$00C37C8E
+Net18=NetName=LED1.Data|NetColor=$00C37C8E
+Net19=NetName=LED1_CLK|NetColor=$00A74E67
+Net20=NetName=LED1_DAT|NetColor=$00A74E67
+Net21=NetName=LED1_Data|NetColor=clBlack
+Net22=NetName=LED2.Clock|NetColor=$00C37C8E
+Net23=NetName=LED2.Data|NetColor=$00C37C8E
+Net24=NetName=LED2_CLK|NetColor=$00A74E67
+Net25=NetName=LED2_DAT|NetColor=$00A74E67
+Net26=NetName=LED3.Clock|NetColor=$00C37C8E
+Net27=NetName=LED3.Data|NetColor=$00C37C8E
+Net28=NetName=LED3_CLK|NetColor=$00A74E67
+Net29=NetName=LED3_DAT|NetColor=$00A74E67
+Net30=NetName=LED4.Clock|NetColor=$00C37C8E
+Net31=NetName=LED4.Data|NetColor=$00C37C8E
+Net32=NetName=LED4_CLK|NetColor=$00A74E67
+Net33=NetName=LED4_Clock|NetColor=$00A07BC2
+Net34=NetName=LED4_DAT|NetColor=$00A74E67
+Net35=NetName=LEDn1|NetColor=$00633707
+Net36=NetName=LEDn2|NetColor=$00633707
+Net37=NetName=LEDn3|NetColor=$00633707
+Net38=NetName=LEDn4|NetColor=$00633707
+Net39=NetName=LEDp1|NetColor=clLime
+Net40=NetName=LEDp2|NetColor=clLime
+Net41=NetName=LEDp3|NetColor=clLime
+Net42=NetName=LEDp4|NetColor=clLime
+Net43=NetName=LEDpwr1|NetColor=clLime
+Net44=NetName=NetC?_1|NetColor=$00633707
+Net45=NetName=NetC?_2|NetColor=clLime
+Net46=NetName=NetC?_HP11_1|NetColor=$00633707
+Net47=NetName=NetC?_HP12_1|NetColor=$00633707
+Net48=NetName=NetC?_HP12_2|NetColor=clLime
+Net49=NetName=NetC?_HP13_1|NetColor=$00633707
+Net50=NetName=NetC?_HP13_2|NetColor=clLime
+Net51=NetName=NetC?_HP14_1|NetColor=$00633707
+Net52=NetName=NetC?_HP14_2|NetColor=clLime
+Net53=NetName=NetF?_1|NetColor=clYellow
+Net54=NetName=NetJ48_01|NetColor=$00A74E67
+Net55=NetName=NetJ48_02|NetColor=$00A74E67
+Net56=NetName=NetJ48_03|NetColor=$00A74E67
+Net57=NetName=NetJ48_04|NetColor=$00A74E67
+Net58=NetName=NetJ48_05|NetColor=$00A74E67
+Net59=NetName=NetJ48_06|NetColor=$00A74E67
+Net60=NetName=NetJ48_07|NetColor=$00A74E67
+Net61=NetName=NetJ48_08|NetColor=$00A74E67
+Net62=NetName=NetJ50_01|NetColor=$00A74E67
+Net63=NetName=NetJ50_02|NetColor=$00A74E67
+Net64=NetName=NetJ50_03|NetColor=$00A74E67
+Net65=NetName=NetJ50_04|NetColor=$00A74E67
+Net66=NetName=NetJ50_05|NetColor=$00A74E67
+Net67=NetName=NetJ50_06|NetColor=$00A74E67
+Net68=NetName=NetJ50_07|NetColor=$00A74E67
+Net69=NetName=NetJ50_08|NetColor=$00A74E67
+Net70=NetName=NetJ50_S_01|NetColor=$00A74E67
+Net71=NetName=NetJ50_S_02|NetColor=$00A74E67
+Net72=NetName=NetJ50_S_03|NetColor=$00A74E67
+Net73=NetName=NetJ50_S_04|NetColor=$00A74E67
+Net74=NetName=NetJ50_S_05|NetColor=$00A74E67
+Net75=NetName=NetJ50_S_06|NetColor=$00A74E67
+Net76=NetName=NetJ50_S_07|NetColor=$00A74E67
+Net77=NetName=NetJ50_S_08|NetColor=$00A74E67
+Net78=NetName=NetSB6_1|NetColor=clAqua
+Net79=NetName=NetU6_2|NetColor=$001D7638
+Net80=NetName=NetU6_3|NetColor=$001D7638
+Net81=NetName=NetU6_4|NetColor=$001D7638
+Net82=NetName=NetU6_5|NetColor=$001D7638
+Net83=NetName=NetU6_6|NetColor=$001D7638
+Net84=NetName=NetU6_7|NetColor=$001D7638
+Net85=NetName=NetU6_8|NetColor=$001D7638
+Net86=NetName=NetU6_9|NetColor=$001D7638
+Net87=NetName=NetU6_RP_SmartLED_2|NetColor=$00BDA6D5
+Net88=NetName=NetU6_RP_SmartLED_3|NetColor=$00BDA6D5
+Net89=NetName=NetU6_RP_SmartLED_4|NetColor=$00BDA6D5
+Net90=NetName=NetU6_RP_SmartLED_5|NetColor=$00BDA6D5
+Net91=NetName=NetU6_RP_SmartLED_6|NetColor=$00BDA6D5
+Net92=NetName=NetU6_RP_SmartLED_7|NetColor=$00BDA6D5
+Net93=NetName=NetU6_RP_SmartLED_8|NetColor=$00BDA6D5
+Net94=NetName=NetU6_RP_SmartLED_9|NetColor=$00BDA6D5
+Net95=NetName=NetU6_RP2040_2|NetColor=$00C37C8E
+Net96=NetName=NetU6_RP2040_3|NetColor=$00C37C8E
+Net97=NetName=NetU6_RP2040_4|NetColor=$00C37C8E
+Net98=NetName=NetU6_RP2040_5|NetColor=$00C37C8E
+Net99=NetName=NetU6_RP2040_6|NetColor=$00C37C8E
+Net100=NetName=NetU6_RP2040_7|NetColor=$00C37C8E
+Net101=NetName=NetU6_RP2040_8|NetColor=$00C37C8E
+Net102=NetName=NetU6_RP2040_9|NetColor=$00C37C8E
+Net103=NetName=NetU6_STM32_2|NetColor=$001D7638
+Net104=NetName=NetU6_STM32_3|NetColor=$001D7638
+Net105=NetName=NetU6_STM32_4|NetColor=$001D7638
+Net106=NetName=NetU6_STM32_5|NetColor=$001D7638
+Net107=NetName=NetU6_STM32_6|NetColor=$001D7638
+Net108=NetName=NetU6_STM32_7|NetColor=$001D7638
+Net109=NetName=NetU6_STM32_8|NetColor=$001D7638
+Net110=NetName=NetU6_STM32_9|NetColor=$001D7638
+Net111=NetName=NetU6_STM32_SmartLED1_2|NetColor=$00A07BC2
+Net112=NetName=NetU6_STM32_SmartLED1_3|NetColor=$00A07BC2
+Net113=NetName=NetU6_STM32_SmartLED1_4|NetColor=$00A07BC2
+Net114=NetName=NetU6_STM32_SmartLED1_5|NetColor=$00A07BC2
+Net115=NetName=NetU6_STM32_SmartLED1_6|NetColor=$00A07BC2
+Net116=NetName=NetU6_STM32_SmartLED1_7|NetColor=$00A07BC2
+Net117=NetName=NetU6_STM32_SmartLED1_8|NetColor=$00A07BC2
+Net118=NetName=NetU6_STM32_SmartLED1_9|NetColor=$00A07BC2
+Net119=NetName=NRST|NetColor=$008E8145
+Net120=NetName=PB6|NetColor=$00FF0099
+Net121=NetName=PB7|NetColor=$00FF0099
+Net122=NetName=RP_LED1.Clock|NetColor=$00BDA6D5
+Net123=NetName=RP_LED1.Data|NetColor=$00BDA6D5
+Net124=NetName=RP_LED2.Clock|NetColor=$00BDA6D5
+Net125=NetName=RP_LED2.Data|NetColor=$00BDA6D5
+Net126=NetName=RP_LED3.Clock|NetColor=$00BDA6D5
+Net127=NetName=RP_LED3.Data|NetColor=$00BDA6D5
+Net128=NetName=RP_LED4.Clock|NetColor=$00BDA6D5
+Net129=NetName=RP_LED4.Data|NetColor=$00BDA6D5
+Net130=NetName=RP_VSYS|NetColor=$008E8145
+Net131=NetName=SmartLED4.Data|NetColor=$00A07BC2
+Net132=NetName=STM_LED1.Clock|NetColor=$00A07BC2
+Net133=NetName=STM_LED1.Data|NetColor=$00A07BC2
+Net134=NetName=STM_LED2.Clock|NetColor=$00A07BC2
+Net135=NetName=STM_LED2.Data|NetColor=$00A07BC2
+Net136=NetName=STM_LED3.Clock|NetColor=$00A07BC2
+Net137=NetName=STM_LED3.Data|NetColor=$00A07BC2
+Net138=NetName=STM_LED4.Clock|NetColor=$00A07BC2
+Net139=NetName=STM_LED4.Data|NetColor=$00A07BC2
+Net140=NetName=STM32_LED1.Clock|NetColor=$001D7638
+Net141=NetName=STM32_LED1.Data|NetColor=$001D7638
+Net142=NetName=STM32_LED2.Clock|NetColor=$001D7638
+Net143=NetName=STM32_LED2.Data|NetColor=$001D7638
+Net144=NetName=STM32_LED3.Clock|NetColor=$001D7638
+Net145=NetName=STM32_LED3.Data|NetColor=$001D7638
+Net146=NetName=STM32_LED4.Clock|NetColor=$001D7638
+Net147=NetName=STM32_LED4.Data|NetColor=$001D7638
+Net148=NetName=V_LED|NetColor=clRed
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+

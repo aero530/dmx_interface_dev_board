@@ -1,0 +1,95 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\phil\Documents\code\dmx_interface_db\DMX Interface.PcbDoc
+Date     : 9/5/2025
+Time     : 4:28:43 PM
+
+Processing Rule : Clearance Constraint (Gap=5.906mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (IsRegion),(IsRegion)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (IsRegion),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad J22-09(3141.732mil,3556.456mil) on Multi-Layer And Via (3494.094mil,3476.428mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad J9_H-06(3495.695mil,2357.481mil) on Multi-Layer And Via (3592.52mil,2925.247mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net V_LED Between Track (2427.165mil,4515.748mil)(2436.024mil,4515.748mil) on Top Layer And Via (3750mil,4438.976mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (3110.236mil,866.142mil) from Top Layer to Bottom Layer And Via (3385.827mil,856.299mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net V_LED Between Via (4438.976mil,3021.653mil) from Top Layer to Bottom Layer And Via (4458.661mil,2588.583mil) from Top Layer to Bottom Layer 
+Rule Violations :5
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6.022mil) (Max=10mil) (Preferred=10mil) (InNetClass('MDI'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4.842mil) (Max=10mil) (Preferred=10mil) (InNetClass('55OhmSE'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3.937mil) (Max=157.48mil) (Preferred=5.984mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=7.874mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=3.937mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Arc (78.74mil,275.591mil) on Top Layer 
+   Violation between Net Antennae: Arc (78.74mil,275.591mil) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (OnLayer('Top Overlay'))
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InxSignalClass('USB_STM32'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InxSignalClass('QSPI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('RS485'))
+   Violation between Matched Net Lengths: Between Net DMX_n And Net DMX_p Actual Difference against DMX_p is: 555.367mil, Tolerance : 10mil. 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=10mil Target=RMII_TXD1_PP1) (InxSignalClass('RMII'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil Target=TD_N_PP1) (InxSignalClass('Eth'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=3149.606mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Waived Violations : 0
+Time Elapsed        : 00:00:01
