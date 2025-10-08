@@ -1,14 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 4:53:42 PM On 9/5/2025
-
-Output: Active BOM
-Type  : BOM
-From  : Variant [Production] of Project [DMX Interface DB.PrjPcb]
-   Generated File[Active BOM-DMX Interface(Production).xlsx]
+Output: Orcad/PCB2 Netlist
+Type  : OrCadPCB2Netlist
+From  : Project [DMX Interface DB.PrjPcb]
+   Generated File[Block Diagram.NET]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 4:53:44 PM On 9/5/2025
+Finished Output Generation At 12:20:09 PM On 10/2/2025

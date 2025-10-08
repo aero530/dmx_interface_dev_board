@@ -548,16 +548,13 @@ UniqueId=b434e3df-c20b-4eb1-a24e-0423bc91d971
 Description=Production
 AllowFabrication=0
 ParameterCount=0
-VariationCount=9
-Variation1=Designator=R41|UniqueId=\MULVPFYD\OGUROPIG|Kind=1|AlternatePart=
-Variation2=Designator=R43|UniqueId=\MULVPFYD\TASUSTKO|Kind=1|AlternatePart=
-Variation3=Designator=R51|UniqueId=\MULVPFYD\RBXOARNO|Kind=1|AlternatePart=
-Variation4=Designator=R56|UniqueId=\MULVPFYD\QWZZAGCX|Kind=1|AlternatePart=
-Variation5=Designator=J40|UniqueId=\WWSTGUSB\KVOIYKMO\MPYXVPPS|Kind=1|AlternatePart=
-Variation6=Designator=J51|UniqueId=\WWSTGUSB\KVOIYKMO\LRLPEKSH|Kind=1|AlternatePart=
-Variation7=Designator=C3_PWM1|UniqueId=\MULVPFYD\TBVZZLJW\GIQPOCXZ|Kind=0|AlternatePart=
-Variation8=Designator=C3_PWM2|UniqueId=\MULVPFYD\ATRYBEJT\GIQPOCXZ|Kind=0|AlternatePart=
-Variation9=Designator=C3_PWM3|UniqueId=\MULVPFYD\DTRHXZDQ\GIQPOCXZ|Kind=0|AlternatePart=
+VariationCount=6
+Variation1=Designator=J40|UniqueId=\WWSTGUSB\KVOIYKMO\MPYXVPPS|Kind=1|AlternatePart=
+Variation2=Designator=J51|UniqueId=\WWSTGUSB\KVOIYKMO\LRLPEKSH|Kind=1|AlternatePart=
+Variation3=Designator=SB6|UniqueId=\WWSTGUSB\LKDMMRBY\FRTELWGQ|Kind=1|AlternatePart=
+Variation4=Designator=SB8|UniqueId=\WWSTGUSB\LKDMMRBY\OPWJULNV|Kind=1|AlternatePart=
+Variation5=Designator=SB3|UniqueId=\WWSTGUSB\LKDMMRBY\JNRRLBIU|Kind=1|AlternatePart=
+Variation6=Designator=SB4|UniqueId=\WWSTGUSB\LKDMMRBY\RZRXNOZO|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -573,482 +570,486 @@ DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-DMX Interf
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=Project Outputs for DMX Interface DB\Block Diagram.NET
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\BOM\Copy of Bill of Materials-DMX Interface(SMT).xlsx
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Outputs for Free Documents\BOM\Copy of Bill of Materials-DMX Interface(SMT).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for DMX Interface DB\Design Rule Check - DMX Interface.html
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for DMX Interface\Design Rule Check - PCB.html
+DocumentPath=Project Outputs for DMX Interface DB\Design Rule Check - DMX Interface.html
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=DMX Interface 9-5-2025 7-40-31 AM.WAS
+DocumentPath=Project Outputs for DMX Interface\Design Rule Check - PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface-NonPlated.TXT
+DocumentPath=DMX Interface 9-5-2025 7-40-31 AM.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface-NonPlated.TXT
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface-Plated.TXT
+DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface-Plated.TXT
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface-RoundHoles-NonPlated.TXT
+DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface-RoundHoles-Plated.TXT
+DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface-SlotHoles-Plated.TXT
+DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface.DRR
+DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.DRR
+DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface.DRR
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.EXTREP
+DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.EXTREP
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.EXTREP
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G1
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G1
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G1
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G1
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G1
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G2
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G1
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G2
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G2
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G2
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G2
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G3
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G2
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G3
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G3
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G3
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G3
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G4
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G3
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G4
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.G4
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G4
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.G4
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBL
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.G4
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBL
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBL
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBO
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBO
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBO
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBP
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBP
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBP
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBS
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBS
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBS
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GM
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GM
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GM
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GM
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GM
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTL
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GM
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTL
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTL
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTO
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTO
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTO
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTP
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTP
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTP
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTS
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTS
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTS
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface.LDP
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.LDP
+DocumentPath=Project Outputs for DMX Interface\NC Drill\DMX Interface.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface.LDP
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.REP
+DocumentPath=Project Outputs for DMX Interface DB\NC Drill\DMX Interface.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.REP
+DocumentPath=Project Outputs for DMX Interface\Gerber\DMX Interface.REP
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.REP
+DocumentPath=Project Outputs for DMX Interface DB\Gerber\DMX Interface.REP
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for DMX Interface DB\Gerber NC Drill\DMX Interface.REP
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_surface_finish\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_surface_finish\features
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_2\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_3\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_5\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_6\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_7\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_6\features
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\dielectric_7\features
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int1__gnd_\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int2__pwr_\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int1__gnd_\features
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int3__sign_\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int2__pwr_\features
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int4__gnd_\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int3__sign_\features
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\rout\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\int4__gnd_\features
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\rout\features
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_surface_finish\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape0db032d7\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_surface_finish\features
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape2e043c68\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape0db032d7\features
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape2f333148\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape2e043c68\features
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape5d4080e7\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape2f333148\features
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape27a636e6\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape5d4080e7\features
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape32f909d2\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape27a636e6\features
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape097c866e\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape32f909d2\features
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape428b1e6c\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape097c866e\features
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape960b5058\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape428b1e6c\features
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape3410df80\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape960b5058\features
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape4828388f\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape3410df80\features
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapea418c62c\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shape4828388f\features
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapeac496130\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapea418c62c\features
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapedf308b95\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapeac496130\features
 DItemRevisionGUID=
 
 [GeneratedDocument107]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapeead5950f\features
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapedf308b95\features
 DItemRevisionGUID=
 
 [GeneratedDocument108]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
+DocumentPath=Project Outputs for Free Documents\ODB\odb\symbols\shapeead5950f\features
 DItemRevisionGUID=
 
 [GeneratedDocument109]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument110]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB.EXTREP
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument111]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB.REP
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument112]
-DocumentPath=Project Outputs for Free Documents\ODB\PCB.REP
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument113]
-DocumentPath=Project Outputs for DMX Interface\Pick Place\Pick Place for DMX Interface(SMT).csv
+DocumentPath=Project Outputs for Free Documents\ODB\PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument114]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
+DocumentPath=Project Outputs for DMX Interface\Pick Place\Pick Place for DMX Interface(SMT).csv
 DItemRevisionGUID=
 
 [GeneratedDocument115]
-DocumentPath=..\..\..\AppData\Local\Temp\Qjz28D9.xls
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument116]
-DocumentPath=..\..\..\AppData\Local\Temp\Qjz68A9.xls
+DocumentPath=..\..\..\AppData\Local\Temp\Qjz28D9.xls
 DItemRevisionGUID=
 
 [GeneratedDocument117]
-DocumentPath=..\..\..\AppData\Local\Temp\Qjz1175.xls
+DocumentPath=..\..\..\AppData\Local\Temp\Qjz68A9.xls
 DItemRevisionGUID=
 
 [GeneratedDocument118]
-DocumentPath=..\..\..\AppData\Local\Temp\Qjz5641.xls
+DocumentPath=..\..\..\AppData\Local\Temp\Qjz1175.xls
 DItemRevisionGUID=
 
 [GeneratedDocument119]
-DocumentPath=..\..\..\AppData\Local\Temp\QjzE9A5.xls
+DocumentPath=..\..\..\AppData\Local\Temp\Qjz5641.xls
 DItemRevisionGUID=
 
 [GeneratedDocument120]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
+DocumentPath=..\..\..\AppData\Local\Temp\QjzE9A5.xls
 DItemRevisionGUID=
 
 [GeneratedDocument121]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument122]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
 [GeneratedDocument123]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument124]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\rout\tools
 DItemRevisionGUID=
 
@@ -1070,58 +1071,97 @@ OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+Esd_PrintColor=0
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=Production
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
 TargetPrinter=Phaser 7500DN PS
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=CadnetixNetlist
-OutputName1=Cadnetix Netlist
+OutputType1=RacalNetlist
+OutputName1=Racal Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=CalayNetlist
-OutputName2=Calay Netlist
+OutputType2=RINFNetlist
+OutputName2=RINF Netlist
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=EDIF
-OutputName3=EDIF for PCB
+OutputType3=ProtelNetlist
+OutputName3=Protel
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=EESofNetlist
-OutputName4=EESof Netlist
+OutputType4=PCADnltNetlist
+OutputName4=PCADnlt Netlist
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=IntergraphNetlist
-OutputName5=Intergraph Netlist
+OutputType5=Protel2Netlist
+OutputName5=Protel2 Netlist
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=MentorBoardStationNetlist
-OutputName6=Mentor BoardStation Netlist
+OutputType6=WireListNetlist
+OutputName6=WireList Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=MultiWire
-OutputName7=MultiWire
+OutputType7=XSpiceNetlist
+OutputName7=Mixed Sim Netlist
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=OrCadPCB2Netlist
-OutputName8=Orcad/PCB2 Netlist
+OutputType8=TelesisNetlist
+OutputName8=Telesis Netlist
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=PADSNetlist
-OutputName9=PADS ASCII Netlist
+OutputType9=SciCardsNetlist
+OutputName9=SciCards Netlist
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Pcad
-OutputName10=Pcad for PCB
+OutputType10=TangoNetlist
+OutputName10=Tango Netlist
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
@@ -1130,53 +1170,55 @@ OutputName11=PCAD Netlist
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=PCADnltNetlist
-OutputName12=PCADnlt Netlist
+OutputType12=EESofNetlist
+OutputName12=EESof Netlist
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Protel2Netlist
-OutputName13=Protel2 Netlist
+OutputType13=IntergraphNetlist
+OutputName13=Intergraph Netlist
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-OutputType14=ProtelNetlist
-OutputName14=Protel
+OutputType14=EDIF
+OutputName14=EDIF for PCB
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-OutputType15=RacalNetlist
-OutputName15=Racal Netlist
+OutputType15=CadnetixNetlist
+OutputName15=Cadnetix Netlist
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-OutputType16=RINFNetlist
-OutputName16=RINF Netlist
+OutputType16=CalayNetlist
+OutputName16=Calay Netlist
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-OutputType17=SciCardsNetlist
-OutputName17=SciCards Netlist
+OutputType17=PADSNetlist
+OutputName17=PADS ASCII Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=TangoNetlist
-OutputName18=Tango Netlist
+OutputType18=Pcad
+OutputName18=Pcad for PCB
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=TelesisNetlist
-OutputName19=Telesis Netlist
+OutputType19=OrCadPCB2Netlist
+OutputName19=Orcad/PCB2 Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=WireListNetlist
-OutputName20=WireList Netlist
+Configuration19_Name1=ForceUpdateSettings
+Configuration19_Item1=False
+OutputType20=MentorBoardStationNetlist
+OutputName20=Mentor BoardStation Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
+OutputType21=MultiWire
+OutputName21=MultiWire
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
@@ -1196,7 +1238,7 @@ OutputDefault1=0
 Name=Documentation Outputs
 Description=
 TargetPrinter=Phaser 7500DN PS
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
@@ -1268,7 +1310,9 @@ OutputName12=Schematic Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.70|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Users\phil\Documents\code\dmx_interface_dev_board\TPS922051.SchDoc
 OutputType13=SimView Print
 OutputName13=SimView Prints
 OutputDocumentPath13=
@@ -3529,145 +3573,153 @@ Net6=NetName=5V_STM32|NetColor=$000090BF
 Net7=NetName=5V_STM32_FUSED|NetColor=$000090BF
 Net8=NetName=5V_UCPD|NetColor=$000099FF
 Net9=NetName=5V_UCPD_FUSED|NetColor=$000099FF
-Net10=NetName=JTCK|NetColor=clBlack
-Net11=NetName=JTCK_SWCLK|NetColor=$000099FF
-Net12=NetName=JTDI|NetColor=$000099FF
-Net13=NetName=JTDO|NetColor=clBlack
-Net14=NetName=JTDO_SWO|NetColor=$000099FF
-Net15=NetName=JTMS|NetColor=clBlack
-Net16=NetName=JTMS_SWDIO|NetColor=$000099FF
-Net17=NetName=LED1.Clock|NetColor=$00C37C8E
-Net18=NetName=LED1.Data|NetColor=$00C37C8E
-Net19=NetName=LED1_CLK|NetColor=$00A74E67
-Net20=NetName=LED1_DAT|NetColor=$00A74E67
-Net21=NetName=LED1_Data|NetColor=clBlack
-Net22=NetName=LED2.Clock|NetColor=$00C37C8E
-Net23=NetName=LED2.Data|NetColor=$00C37C8E
-Net24=NetName=LED2_CLK|NetColor=$00A74E67
-Net25=NetName=LED2_DAT|NetColor=$00A74E67
-Net26=NetName=LED3.Clock|NetColor=$00C37C8E
-Net27=NetName=LED3.Data|NetColor=$00C37C8E
-Net28=NetName=LED3_CLK|NetColor=$00A74E67
-Net29=NetName=LED3_DAT|NetColor=$00A74E67
-Net30=NetName=LED4.Clock|NetColor=$00C37C8E
-Net31=NetName=LED4.Data|NetColor=$00C37C8E
-Net32=NetName=LED4_CLK|NetColor=$00A74E67
-Net33=NetName=LED4_Clock|NetColor=$00A07BC2
-Net34=NetName=LED4_DAT|NetColor=$00A74E67
-Net35=NetName=LEDn1|NetColor=$00633707
-Net36=NetName=LEDn2|NetColor=$00633707
-Net37=NetName=LEDn3|NetColor=$00633707
-Net38=NetName=LEDn4|NetColor=$00633707
-Net39=NetName=LEDp1|NetColor=clLime
-Net40=NetName=LEDp2|NetColor=clLime
-Net41=NetName=LEDp3|NetColor=clLime
-Net42=NetName=LEDp4|NetColor=clLime
-Net43=NetName=LEDpwr1|NetColor=clLime
-Net44=NetName=NetC?_1|NetColor=$00633707
-Net45=NetName=NetC?_2|NetColor=clLime
-Net46=NetName=NetC?_HP11_1|NetColor=$00633707
-Net47=NetName=NetC?_HP12_1|NetColor=$00633707
-Net48=NetName=NetC?_HP12_2|NetColor=clLime
-Net49=NetName=NetC?_HP13_1|NetColor=$00633707
-Net50=NetName=NetC?_HP13_2|NetColor=clLime
-Net51=NetName=NetC?_HP14_1|NetColor=$00633707
-Net52=NetName=NetC?_HP14_2|NetColor=clLime
-Net53=NetName=NetF?_1|NetColor=clYellow
-Net54=NetName=NetJ48_01|NetColor=$00A74E67
-Net55=NetName=NetJ48_02|NetColor=$00A74E67
-Net56=NetName=NetJ48_03|NetColor=$00A74E67
-Net57=NetName=NetJ48_04|NetColor=$00A74E67
-Net58=NetName=NetJ48_05|NetColor=$00A74E67
-Net59=NetName=NetJ48_06|NetColor=$00A74E67
-Net60=NetName=NetJ48_07|NetColor=$00A74E67
-Net61=NetName=NetJ48_08|NetColor=$00A74E67
-Net62=NetName=NetJ50_01|NetColor=$00A74E67
-Net63=NetName=NetJ50_02|NetColor=$00A74E67
-Net64=NetName=NetJ50_03|NetColor=$00A74E67
-Net65=NetName=NetJ50_04|NetColor=$00A74E67
-Net66=NetName=NetJ50_05|NetColor=$00A74E67
-Net67=NetName=NetJ50_06|NetColor=$00A74E67
-Net68=NetName=NetJ50_07|NetColor=$00A74E67
-Net69=NetName=NetJ50_08|NetColor=$00A74E67
-Net70=NetName=NetJ50_S_01|NetColor=$00A74E67
-Net71=NetName=NetJ50_S_02|NetColor=$00A74E67
-Net72=NetName=NetJ50_S_03|NetColor=$00A74E67
-Net73=NetName=NetJ50_S_04|NetColor=$00A74E67
-Net74=NetName=NetJ50_S_05|NetColor=$00A74E67
-Net75=NetName=NetJ50_S_06|NetColor=$00A74E67
-Net76=NetName=NetJ50_S_07|NetColor=$00A74E67
-Net77=NetName=NetJ50_S_08|NetColor=$00A74E67
-Net78=NetName=NetSB6_1|NetColor=clAqua
-Net79=NetName=NetU6_2|NetColor=$001D7638
-Net80=NetName=NetU6_3|NetColor=$001D7638
-Net81=NetName=NetU6_4|NetColor=$001D7638
-Net82=NetName=NetU6_5|NetColor=$001D7638
-Net83=NetName=NetU6_6|NetColor=$001D7638
-Net84=NetName=NetU6_7|NetColor=$001D7638
-Net85=NetName=NetU6_8|NetColor=$001D7638
-Net86=NetName=NetU6_9|NetColor=$001D7638
-Net87=NetName=NetU6_RP_SmartLED_2|NetColor=$00BDA6D5
-Net88=NetName=NetU6_RP_SmartLED_3|NetColor=$00BDA6D5
-Net89=NetName=NetU6_RP_SmartLED_4|NetColor=$00BDA6D5
-Net90=NetName=NetU6_RP_SmartLED_5|NetColor=$00BDA6D5
-Net91=NetName=NetU6_RP_SmartLED_6|NetColor=$00BDA6D5
-Net92=NetName=NetU6_RP_SmartLED_7|NetColor=$00BDA6D5
-Net93=NetName=NetU6_RP_SmartLED_8|NetColor=$00BDA6D5
-Net94=NetName=NetU6_RP_SmartLED_9|NetColor=$00BDA6D5
-Net95=NetName=NetU6_RP2040_2|NetColor=$00C37C8E
-Net96=NetName=NetU6_RP2040_3|NetColor=$00C37C8E
-Net97=NetName=NetU6_RP2040_4|NetColor=$00C37C8E
-Net98=NetName=NetU6_RP2040_5|NetColor=$00C37C8E
-Net99=NetName=NetU6_RP2040_6|NetColor=$00C37C8E
-Net100=NetName=NetU6_RP2040_7|NetColor=$00C37C8E
-Net101=NetName=NetU6_RP2040_8|NetColor=$00C37C8E
-Net102=NetName=NetU6_RP2040_9|NetColor=$00C37C8E
-Net103=NetName=NetU6_STM32_2|NetColor=$001D7638
-Net104=NetName=NetU6_STM32_3|NetColor=$001D7638
-Net105=NetName=NetU6_STM32_4|NetColor=$001D7638
-Net106=NetName=NetU6_STM32_5|NetColor=$001D7638
-Net107=NetName=NetU6_STM32_6|NetColor=$001D7638
-Net108=NetName=NetU6_STM32_7|NetColor=$001D7638
-Net109=NetName=NetU6_STM32_8|NetColor=$001D7638
-Net110=NetName=NetU6_STM32_9|NetColor=$001D7638
-Net111=NetName=NetU6_STM32_SmartLED1_2|NetColor=$00A07BC2
-Net112=NetName=NetU6_STM32_SmartLED1_3|NetColor=$00A07BC2
-Net113=NetName=NetU6_STM32_SmartLED1_4|NetColor=$00A07BC2
-Net114=NetName=NetU6_STM32_SmartLED1_5|NetColor=$00A07BC2
-Net115=NetName=NetU6_STM32_SmartLED1_6|NetColor=$00A07BC2
-Net116=NetName=NetU6_STM32_SmartLED1_7|NetColor=$00A07BC2
-Net117=NetName=NetU6_STM32_SmartLED1_8|NetColor=$00A07BC2
-Net118=NetName=NetU6_STM32_SmartLED1_9|NetColor=$00A07BC2
-Net119=NetName=NRST|NetColor=$008E8145
-Net120=NetName=PB6|NetColor=$00FF0099
-Net121=NetName=PB7|NetColor=$00FF0099
-Net122=NetName=RP_LED1.Clock|NetColor=$00BDA6D5
-Net123=NetName=RP_LED1.Data|NetColor=$00BDA6D5
-Net124=NetName=RP_LED2.Clock|NetColor=$00BDA6D5
-Net125=NetName=RP_LED2.Data|NetColor=$00BDA6D5
-Net126=NetName=RP_LED3.Clock|NetColor=$00BDA6D5
-Net127=NetName=RP_LED3.Data|NetColor=$00BDA6D5
-Net128=NetName=RP_LED4.Clock|NetColor=$00BDA6D5
-Net129=NetName=RP_LED4.Data|NetColor=$00BDA6D5
-Net130=NetName=RP_VSYS|NetColor=$008E8145
-Net131=NetName=SmartLED4.Data|NetColor=$00A07BC2
-Net132=NetName=STM_LED1.Clock|NetColor=$00A07BC2
-Net133=NetName=STM_LED1.Data|NetColor=$00A07BC2
-Net134=NetName=STM_LED2.Clock|NetColor=$00A07BC2
-Net135=NetName=STM_LED2.Data|NetColor=$00A07BC2
-Net136=NetName=STM_LED3.Clock|NetColor=$00A07BC2
-Net137=NetName=STM_LED3.Data|NetColor=$00A07BC2
-Net138=NetName=STM_LED4.Clock|NetColor=$00A07BC2
-Net139=NetName=STM_LED4.Data|NetColor=$00A07BC2
-Net140=NetName=STM32_LED1.Clock|NetColor=$001D7638
-Net141=NetName=STM32_LED1.Data|NetColor=$001D7638
-Net142=NetName=STM32_LED2.Clock|NetColor=$001D7638
-Net143=NetName=STM32_LED2.Data|NetColor=$001D7638
-Net144=NetName=STM32_LED3.Clock|NetColor=$001D7638
-Net145=NetName=STM32_LED3.Data|NetColor=$001D7638
-Net146=NetName=STM32_LED4.Clock|NetColor=$001D7638
-Net147=NetName=STM32_LED4.Data|NetColor=$001D7638
-Net148=NetName=V_LED|NetColor=clRed
+Net10=NetName=DISPLAY_IO.COL0|NetColor=$00434343
+Net11=NetName=DISPLAY_IO.COL1|NetColor=$00434343
+Net12=NetName=DISPLAY_IO.COL2|NetColor=$00434343
+Net13=NetName=DISPLAY_IO.COL3|NetColor=$00434343
+Net14=NetName=DISPLAY_IO.ROW0|NetColor=$00434343
+Net15=NetName=DISPLAY_IO.ROW1|NetColor=$00434343
+Net16=NetName=DISPLAY_IO.ROW2|NetColor=$00434343
+Net17=NetName=DISPLAY_IO.ROW3|NetColor=$00434343
+Net18=NetName=JTCK|NetColor=clBlack
+Net19=NetName=JTCK_SWCLK|NetColor=$000099FF
+Net20=NetName=JTDI|NetColor=$000099FF
+Net21=NetName=JTDO|NetColor=clBlack
+Net22=NetName=JTDO_SWO|NetColor=$000099FF
+Net23=NetName=JTMS|NetColor=clBlack
+Net24=NetName=JTMS_SWDIO|NetColor=$000099FF
+Net25=NetName=LED1.Clock|NetColor=$00C37C8E
+Net26=NetName=LED1.Data|NetColor=$00C37C8E
+Net27=NetName=LED1_CLK|NetColor=$00A74E67
+Net28=NetName=LED1_DAT|NetColor=$00A74E67
+Net29=NetName=LED1_Data|NetColor=clBlack
+Net30=NetName=LED2.Clock|NetColor=$00C37C8E
+Net31=NetName=LED2.Data|NetColor=$00C37C8E
+Net32=NetName=LED2_CLK|NetColor=$00A74E67
+Net33=NetName=LED2_DAT|NetColor=$00A74E67
+Net34=NetName=LED3.Clock|NetColor=$00C37C8E
+Net35=NetName=LED3.Data|NetColor=$00C37C8E
+Net36=NetName=LED3_CLK|NetColor=$00A74E67
+Net37=NetName=LED3_DAT|NetColor=$00A74E67
+Net38=NetName=LED4.Clock|NetColor=$00C37C8E
+Net39=NetName=LED4.Data|NetColor=$00C37C8E
+Net40=NetName=LED4_CLK|NetColor=$00A74E67
+Net41=NetName=LED4_Clock|NetColor=$00A07BC2
+Net42=NetName=LED4_DAT|NetColor=$00A74E67
+Net43=NetName=LEDn1|NetColor=$00633707
+Net44=NetName=LEDn2|NetColor=$00633707
+Net45=NetName=LEDn3|NetColor=$00633707
+Net46=NetName=LEDn4|NetColor=$00633707
+Net47=NetName=LEDp1|NetColor=clLime
+Net48=NetName=LEDp2|NetColor=clLime
+Net49=NetName=LEDp3|NetColor=clLime
+Net50=NetName=LEDp4|NetColor=clLime
+Net51=NetName=LEDpwr1|NetColor=clLime
+Net52=NetName=NetC?_1|NetColor=$00633707
+Net53=NetName=NetC?_2|NetColor=clLime
+Net54=NetName=NetC?_HP11_1|NetColor=$00633707
+Net55=NetName=NetC?_HP12_1|NetColor=$00633707
+Net56=NetName=NetC?_HP12_2|NetColor=clLime
+Net57=NetName=NetC?_HP13_1|NetColor=$00633707
+Net58=NetName=NetC?_HP13_2|NetColor=clLime
+Net59=NetName=NetC?_HP14_1|NetColor=$00633707
+Net60=NetName=NetC?_HP14_2|NetColor=clLime
+Net61=NetName=NetF?_1|NetColor=clYellow
+Net62=NetName=NetJ48_01|NetColor=$00A74E67
+Net63=NetName=NetJ48_02|NetColor=$00A74E67
+Net64=NetName=NetJ48_03|NetColor=$00A74E67
+Net65=NetName=NetJ48_04|NetColor=$00A74E67
+Net66=NetName=NetJ48_05|NetColor=$00A74E67
+Net67=NetName=NetJ48_06|NetColor=$00A74E67
+Net68=NetName=NetJ48_07|NetColor=$00A74E67
+Net69=NetName=NetJ48_08|NetColor=$00A74E67
+Net70=NetName=NetJ50_01|NetColor=$00A74E67
+Net71=NetName=NetJ50_02|NetColor=$00A74E67
+Net72=NetName=NetJ50_03|NetColor=$00A74E67
+Net73=NetName=NetJ50_04|NetColor=$00A74E67
+Net74=NetName=NetJ50_05|NetColor=$00A74E67
+Net75=NetName=NetJ50_06|NetColor=$00A74E67
+Net76=NetName=NetJ50_07|NetColor=$00A74E67
+Net77=NetName=NetJ50_08|NetColor=$00A74E67
+Net78=NetName=NetJ50_S_01|NetColor=$00A74E67
+Net79=NetName=NetJ50_S_02|NetColor=$00A74E67
+Net80=NetName=NetJ50_S_03|NetColor=$00A74E67
+Net81=NetName=NetJ50_S_04|NetColor=$00A74E67
+Net82=NetName=NetJ50_S_05|NetColor=$00A74E67
+Net83=NetName=NetJ50_S_06|NetColor=$00A74E67
+Net84=NetName=NetJ50_S_07|NetColor=$00A74E67
+Net85=NetName=NetJ50_S_08|NetColor=$00A74E67
+Net86=NetName=NetSB6_1|NetColor=clAqua
+Net87=NetName=NetU6_2|NetColor=$001D7638
+Net88=NetName=NetU6_3|NetColor=$001D7638
+Net89=NetName=NetU6_4|NetColor=$001D7638
+Net90=NetName=NetU6_5|NetColor=$001D7638
+Net91=NetName=NetU6_6|NetColor=$001D7638
+Net92=NetName=NetU6_7|NetColor=$001D7638
+Net93=NetName=NetU6_8|NetColor=$001D7638
+Net94=NetName=NetU6_9|NetColor=$001D7638
+Net95=NetName=NetU6_RP_SmartLED_2|NetColor=$00BDA6D5
+Net96=NetName=NetU6_RP_SmartLED_3|NetColor=$00BDA6D5
+Net97=NetName=NetU6_RP_SmartLED_4|NetColor=$00BDA6D5
+Net98=NetName=NetU6_RP_SmartLED_5|NetColor=$00BDA6D5
+Net99=NetName=NetU6_RP_SmartLED_6|NetColor=$00BDA6D5
+Net100=NetName=NetU6_RP_SmartLED_7|NetColor=$00BDA6D5
+Net101=NetName=NetU6_RP_SmartLED_8|NetColor=$00BDA6D5
+Net102=NetName=NetU6_RP_SmartLED_9|NetColor=$00BDA6D5
+Net103=NetName=NetU6_RP2040_2|NetColor=$00C37C8E
+Net104=NetName=NetU6_RP2040_3|NetColor=$00C37C8E
+Net105=NetName=NetU6_RP2040_4|NetColor=$00C37C8E
+Net106=NetName=NetU6_RP2040_5|NetColor=$00C37C8E
+Net107=NetName=NetU6_RP2040_6|NetColor=$00C37C8E
+Net108=NetName=NetU6_RP2040_7|NetColor=$00C37C8E
+Net109=NetName=NetU6_RP2040_8|NetColor=$00C37C8E
+Net110=NetName=NetU6_RP2040_9|NetColor=$00C37C8E
+Net111=NetName=NetU6_STM32_2|NetColor=$001D7638
+Net112=NetName=NetU6_STM32_3|NetColor=$001D7638
+Net113=NetName=NetU6_STM32_4|NetColor=$001D7638
+Net114=NetName=NetU6_STM32_5|NetColor=$001D7638
+Net115=NetName=NetU6_STM32_6|NetColor=$001D7638
+Net116=NetName=NetU6_STM32_7|NetColor=$001D7638
+Net117=NetName=NetU6_STM32_8|NetColor=$001D7638
+Net118=NetName=NetU6_STM32_9|NetColor=$001D7638
+Net119=NetName=NetU6_STM32_SmartLED1_2|NetColor=$00A07BC2
+Net120=NetName=NetU6_STM32_SmartLED1_3|NetColor=$00A07BC2
+Net121=NetName=NetU6_STM32_SmartLED1_4|NetColor=$00A07BC2
+Net122=NetName=NetU6_STM32_SmartLED1_5|NetColor=$00A07BC2
+Net123=NetName=NetU6_STM32_SmartLED1_6|NetColor=$00A07BC2
+Net124=NetName=NetU6_STM32_SmartLED1_7|NetColor=$00A07BC2
+Net125=NetName=NetU6_STM32_SmartLED1_8|NetColor=$00A07BC2
+Net126=NetName=NetU6_STM32_SmartLED1_9|NetColor=$00A07BC2
+Net127=NetName=NRST|NetColor=$008E8145
+Net128=NetName=PB6|NetColor=$00FF0099
+Net129=NetName=PB7|NetColor=$00FF0099
+Net130=NetName=RP_LED1.Clock|NetColor=$00BDA6D5
+Net131=NetName=RP_LED1.Data|NetColor=$00BDA6D5
+Net132=NetName=RP_LED2.Clock|NetColor=$00BDA6D5
+Net133=NetName=RP_LED2.Data|NetColor=$00BDA6D5
+Net134=NetName=RP_LED3.Clock|NetColor=$00BDA6D5
+Net135=NetName=RP_LED3.Data|NetColor=$00BDA6D5
+Net136=NetName=RP_LED4.Clock|NetColor=$00BDA6D5
+Net137=NetName=RP_LED4.Data|NetColor=$00BDA6D5
+Net138=NetName=RP_VSYS|NetColor=$008E8145
+Net139=NetName=SmartLED4.Data|NetColor=$00A07BC2
+Net140=NetName=STM_LED1.Clock|NetColor=$00A07BC2
+Net141=NetName=STM_LED1.Data|NetColor=$00A07BC2
+Net142=NetName=STM_LED2.Clock|NetColor=$00A07BC2
+Net143=NetName=STM_LED2.Data|NetColor=$00A07BC2
+Net144=NetName=STM_LED3.Clock|NetColor=$00A07BC2
+Net145=NetName=STM_LED3.Data|NetColor=$00A07BC2
+Net146=NetName=STM_LED4.Clock|NetColor=$00A07BC2
+Net147=NetName=STM_LED4.Data|NetColor=$00A07BC2
+Net148=NetName=STM32_LED1.Clock|NetColor=$001D7638
+Net149=NetName=STM32_LED1.Data|NetColor=$001D7638
+Net150=NetName=STM32_LED2.Clock|NetColor=$001D7638
+Net151=NetName=STM32_LED2.Data|NetColor=$001D7638
+Net152=NetName=STM32_LED3.Clock|NetColor=$001D7638
+Net153=NetName=STM32_LED3.Data|NetColor=$001D7638
+Net154=NetName=STM32_LED4.Clock|NetColor=$001D7638
+Net155=NetName=STM32_LED4.Data|NetColor=$001D7638
+Net156=NetName=V_LED|NetColor=clRed
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
