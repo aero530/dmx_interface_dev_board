@@ -1,0 +1,112 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+@5 .placement_layer
+
+#
+#Component attribute text strings
+#
+&0 bottom_layer
+
+# CMP 0
+CMP 0 5.00000016 61.60000126 90 N F17 0ZCF0300BF2C ;0=1,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '3A'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 5.00000016 65.30000148 90 N 55 7 1
+TOP 1 5.00000016 57.90000104 90 N 108 88 2
+#
+# CMP 1
+CMP 0 14.63444622 58.94999386 180 N F16 0ZCF0300BF2C ;0=1,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '3A'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 10.934446 58.94999386 0 N 108 93 1
+TOP 1 18.33444644 58.94999386 0 N 56 5 2
+#
+# CMP 2
+CMP 0 24.45483806 60.99999738 90 N F15 0ZCF0300BF2C ;0=1,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '3A'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 24.45483806 64.6999976 90 N 62 6 1
+TOP 1 24.45483806 57.29999716 90 N 108 94 2
+#
+# CMP 3
+CMP 0 33.91264998 59.00000138 180 N F14 0ZCF0300BF2C ;0=1,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '3A'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 30.21264976 59.00000138 0 N 108 90 1
+TOP 1 37.6126502 59.00000138 0 N 61 5 2
+#
+# CMP 4
+CMP 0 44.11957902 60.99999738 90 N F13 0ZCF0300BF2C ;0=1,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '3A'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 44.11957902 64.6999976 90 N 60 6 1
+TOP 1 44.11957902 57.29999716 90 N 108 95 2
+#
+# CMP 5
+CMP 0 53.53443446 59.00000138 180 N F12 0ZCF0300BF2C ;0=1,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '3A'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 49.83443424 59.00000138 0 N 108 92 1
+TOP 1 57.23443468 59.00000138 0 N 54 8 2
+#
+# CMP 6
+CMP 0 63.2500005 60.99999992 90 N F11 0ZCF0300BF2C ;0=1,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '3A'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 63.2500005 64.70000014 90 N 59 6 1
+TOP 1 63.2500005 57.2999997 90 N 108 91 2
+#
+# CMP 7
+CMP 0 72.23709454 58.79373306 180 N F10 0ZCF0300BF2C ;0=1,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '3A'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 68.53709432 58.79373306 0 N 108 87 1
+TOP 1 75.93709476 58.79373306 0 N 57 8 2
+#

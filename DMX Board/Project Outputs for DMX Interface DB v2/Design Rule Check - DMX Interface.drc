@@ -1,0 +1,97 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\phil\Documents\code\dmx_interface_dev_board_v2\DMX Board\DMX Interface.PcbDoc
+Date     : 9/4/2026
+Time     : 7:38:46 PM
+
+Processing Rule : Clearance Constraint (Gap=20mil) (IsRegion),(IsRegion)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5.906mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=30mil) (InNet('GND')          AND OnBottom),(InNet('V_LED')  AND IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (IsRegion),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6.022mil) (Max=10mil) (Preferred=10mil) (InNetClass('MDI'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4.842mil) (Max=10mil) (Preferred=10mil) (InNetClass('55OhmSE'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3.937mil) (Max=157.48mil) (Preferred=5.984mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=7.874mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=3.937mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (OnLayer('Top Overlay'))
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (29.481mil < 39.37mil) Between Board Edge And Pad PTH3-1(157.48mil,157.48mil) on Multi-Layer 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InxSignalClass('USB_STM32'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InxSignalClass('QSPI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('RS485'))
+   Violation between Matched Net Lengths: Between Net DMX_n And Net DMX_p Actual Difference against DMX_p is: 534.848mil, Tolerance : 10mil. 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=10mil Target=RMII_TXD1_PP1) (InxSignalClass('RMII'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil Target=TD_N_PP1) (InxSignalClass('Eth'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=3149.606mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Clearance Constraint (Gap=10mil) (IsRegion),(All)
+   Waived Violation between Clearance Constraint: (4.677mil < 10mil) Between Pad D1-1(354.331mil,1094.488mil) on Top Layer And Region (0 hole(s)) Keep-Out Layer Waived by Phil Spindler at 9/2/2026 12:42:20 PM
+   Waived Violation between Clearance Constraint: (4.677mil < 10mil) Between Pad D1-2(354.331mil,834.646mil) on Top Layer And Region (0 hole(s)) Keep-Out Layer Waived by Phil Spindler at 9/2/2026 12:42:24 PM
+Waived Violations :2
+
+
+Violations Detected : 2
+Waived Violations : 2
+Time Elapsed        : 00:00:00

@@ -1,13 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [PCB1.PcbDoc]
-   Generated File[PCB1-Plated.TXT]
-   Generated File[PCB1-NonPlated.TXT]
-   Generated File[PCB1.LDP]
-   Generated File[PCB1.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 7:47:01 PM On 9/4/2026
+
+Output: Active BOM
+Type  : BOM
+From  : Variant [Production] of Project [LED Power Board.PrjPcb]
+   Generated File[Active BOM-ActiveBOM(Production).xlsx]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 6:12:11 PM On 9/4/2026
+Finished Output Generation At 7:47:03 PM On 9/4/2026

@@ -232,83 +232,287 @@ DocumentPath=Project Outputs\Assembly\Bill of Materials\Assy_DocNum_BOM_REVAssy_
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs\Design Rule Check - PCB1.html
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs\OrCadPCB2Netlist\LED Power Board.NET
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1-NonPlated.TXT
+DocumentPath=Project Outputs\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1-Plated.TXT
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.DRR
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.EXTREP
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.G1
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.G2
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\bottom_surface_finish\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GBL
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GBO
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GBP
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GBS
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\dielectric_5\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GM
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GTL
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GTO
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\int1__pwr_\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GTP
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\int2__gnd_\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GTS
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.LDP
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs\Gerber NC Drill\PCB1.REP
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\top_surface_finish\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs\OrCadPCB2Netlist\LED Power Board.NET
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs\ODB\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.G1
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.G2
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GM
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs\ODB\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Board.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Top_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs\Gerber NC Drill\PCB1_Top_Designator.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz7DF.xls
+DItemRevisionGUID=
+
+[GeneratedDocument69]
 DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz707F.xls
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=..\..\..\..\AppData\Local\Temp\Qjz9944.xls
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
 [Parameter1]

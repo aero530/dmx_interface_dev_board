@@ -2,46 +2,6 @@
 FileName = PCB1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : PCB1_Copper_Signal_Top.gbr
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Int1 (PWR)
-      File : PCB1_Copper_Signal_1.gbr
-
-    Adding Layer      : Int1 (PWR)
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-*************************************************************
-
-*************************************************************
 Generating : Int2 (GND)
       File : PCB1_Copper_Signal_2.gbr
 
@@ -51,85 +11,35 @@ Generating : Int2 (GND)
 
 
 Used DCodes :
-    D21
-    D26
-    D27
-    D28
+    D18
     D29
     D30
     D31
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : PCB1_Top_Assembly.gbr
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D10
-    D11
-    D12
+    D32
     D33
     D34
 *************************************************************
 
 *************************************************************
-Generating : Top Courtyard
-      File : PCB1_Top_Courtyard.gbr
+Generating : Bottom Solder
+      File : PCB1_Soldermask_Bot.gbr
 
-    Adding Layer      : Top Courtyard
+    Adding Layer      : Bottom Solder
 
+    Adding Layer      : Bottom Layer
 
-Used DCodes :
-    D13
-    D33
-    D35
-*************************************************************
-
-*************************************************************
-Generating : Top Designator
-      File : PCB1_Top_Designator.gbr
-
-    Adding Layer      : Top Designator
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D33
-*************************************************************
-
-*************************************************************
-Generating : Top Component Center
-      File : PCB1_Top_Component_Center.gbr
-
-    Adding Layer      : Top Component Center
-
-
-Used DCodes :
-    D33
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : PCB1_Top_3D_Body.gbr
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
-    D33
-*************************************************************
-
-*************************************************************
-Generating : Board
-      File : PCB1_Board.gbr
-
-    Adding Layer      : Board
-
-
-Used DCodes :
-    D32
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
 *************************************************************
 
 *************************************************************
@@ -144,7 +54,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D15
     D16
     D17
     D18
@@ -153,6 +62,93 @@ Used DCodes :
     D21
     D22
     D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : PCB1_Top_Assembly.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB1_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : PCB1_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D14
+    D36
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : PCB1_Top_Designator.gbr
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : PCB1_Top_Component_Center.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB1_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D18
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
 *************************************************************
 
 *************************************************************
@@ -165,12 +161,12 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D21
-    D26
-    D27
-    D28
+    D18
     D29
     D30
+    D31
+    D32
+    D33
 *************************************************************
 
 *************************************************************
@@ -183,13 +179,90 @@ Generating : Top Pad Master
 
 
 Used DCodes :
-    D21
-    D24
+    D16
+    D18
     D26
-    D27
-    D28
     D29
     D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Int1 (PWR)
+      File : PCB1_Copper_Signal_1.gbr
+
+    Adding Layer      : Int1 (PWR)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB1_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : PCB1_Top_3D_Body.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : PCB1_Board.gbr
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB1_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
 *************************************************************
 
 *************************************************************
@@ -207,25 +280,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : PCB1_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-*************************************************************
-
-*************************************************************
 Generating : Keep-Out Layer
       File : PCB1_Keep-out.gbr
 
@@ -233,44 +287,7 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : PCB1_Paste_Top.gbr
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PCB1_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
+    D39
 *************************************************************
 
 *************************************************************
@@ -286,18 +303,7 @@ Used DCodes :
     D12
     D13
     D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB1_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D32
+    D15
 *************************************************************
 
 *************************************************************
@@ -311,7 +317,7 @@ Generating : Drill Drawing
 
 Used DCodes :
     D11
-    D37
+    D40
 *************************************************************
 
 *************************************************************
@@ -333,6 +339,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D38
+    D41
 *************************************************************
 

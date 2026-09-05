@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: DMX Interface.PcbDoc   9/4/2026  6:10:32 PM
+NCDrill File Report For: DMX Interface.PcbDoc   9/4/2026  7:42:57 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -13,10 +13,10 @@ T1      16mil (0.399mm)                                           Round         
 T2      24mil (0.599mm)                                           Slot              4         PTH        1.50inch (38.19mm)
 T3      31mil (0.78mm)                                            Round             5         PTH        0.60inch (15.24mm)
 T4      39mil (1.001mm)                                           Round             16        PTH        3.39inch (86.13mm)
-T5      40mil (1.021mm)                                           Round             68        PTH        9.39inch (238.60mm)
+T5      40mil (1.021mm)                                           Round             68        PTH        10.61inch (269.37mm)
 T6      43mil (1.1mm)                                             Round             27        PTH        4.41inch (111.94mm)
-T7      45mil (1.151mm)                                           Round             8         PTH        0.94inch (24.00mm)
-T8      63mil (1.6mm)                                             Round             16        PTH        3.44inch (87.26mm)
+T7      45mil (1.151mm)                                           Round             8         PTH        0.83inch (21.00mm)
+T8      63mil (1.6mm)                                             Round             16        PTH        2.88inch (73.15mm)
 T9      134mil (3.404mm)                                          Round             1         PTH        0.00inch (0.00mm)
 T10     26mil (0.65mm)                                            Round             2         NPTH       0.23inch (5.80mm)
 T11     40mil (1.016mm)                                           Round             1         NPTH       0.00inch (0.00mm)

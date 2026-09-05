@@ -1,0 +1,432 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+@5 .placement_layer
+
+#
+#Component attribute text strings
+#
+&0 top_layer
+
+# CMP 0
+CMP 6 42.49999882 7.99999924 0 N D1 5.0SMDJ5.0A ;0=1,1=10.5000,5=0
+PRP Case/Package ''
+PRP Forward_Current ''
+PRP Forward_Voltage '5V'
+PRP Max_Operating_Temperature '150°C'
+PRP Max_Surge_Current '326.1A'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Peak_Inverse_Voltage ''
+PRP Pins '2'
+PRP RoHS_Compliant ''
+TOP 0 39.1999978 7.99999924 270 N 10 63 1
+TOP 1 45.79999984 7.99999924 270 N 1 158 2
+#
+# CMP 1
+CMP 5 41.99999982 14.49999894 0 N R1 RC1206FR-0710KL ;0=1,1=0.6500,5=0
+PRP Case/Package '1206'
+PRP Max_Operating_Temperature '155°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mounting_Technology 'Surface Mount'
+PRP Pins '2'
+PRP Power '250mW'
+PRP RoHS_Compliant 'Yes'
+PRP Tolerance '1%'
+PRP Value '10k'
+PRP Voltage_Rating '200V'
+TOP 0 40.60000008 14.49999894 270 N 10 64 1
+TOP 1 43.39999956 14.49999894 270 N 1 167 2
+#
+# CMP 2
+CMP 3 3.99999962 54.00000122 0 N PTH4 Mounting_Hole_NPTH ;0=2,1=10.5000,5=0
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 3.99999962 54.00000122 0 N 0 0 1
+#
+# CMP 3
+CMP 3 81.00000056 58.99999884 0 N PTH3 Mounting_Hole_NPTH ;0=2,1=10.5000,5=0
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 81.00000056 58.99999884 0 N 0 1 1
+#
+# CMP 4
+CMP 3 81.00000056 3.99999962 0 N PTH2 Mounting_Hole_NPTH ;0=2,1=10.5000,5=0
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 81.00000056 3.99999962 0 N 0 3 1
+#
+# CMP 5
+CMP 3 3.99999962 3.99999962 0 N PTH1 Mounting_Hole_NPTH ;0=2,1=10.5000,5=0
+PRP Case/Package ''
+PRP Max_Operating_Temperature ''
+PRP Min_Operating_Temperature ''
+PRP Mounting_Technology ''
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 3.99999962 3.99999962 0 N 0 2 1
+#
+# CMP 6
+CMP 1 16.76999948 78.99999948 180 N P4 691319510004 ;0=2,1=23.7000,5=0
+PRP Case/Package ''
+PRP Connector_Type ''
+PRP Gender ''
+PRP Max_Current_Rating '10A'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology ''
+PRP Pins '4'
+PRP RoHS_Compliant ''
+PRP Voltage_Rating ''
+TOP 0 18.03999948 80.1599997 180 N 8 28 1
+TOP 1 12.95999948 80.1599997 180 N 1 156 2
+TOP 2 20.57999948 69.9999997 180 N 9 20 3
+TOP 3 15.49999948 69.9999997 180 N 1 157 4
+#
+# CMP 7
+CMP 1 34.76999904 78.99999948 180 N P3 691319510004 ;0=2,1=23.7000,5=0
+PRP Case/Package ''
+PRP Connector_Type ''
+PRP Gender ''
+PRP Max_Current_Rating '10A'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology ''
+PRP Pins '4'
+PRP RoHS_Compliant ''
+PRP Voltage_Rating ''
+TOP 0 36.03999904 80.1599997 180 N 6 28 1
+TOP 1 30.95999904 80.1599997 180 N 1 148 2
+TOP 2 38.57999904 69.9999997 180 N 7 18 3
+TOP 3 33.49999904 69.9999997 180 N 1 149 4
+#
+# CMP 8
+CMP 1 52.77000114 78.99999948 180 N P2 691319510004 ;0=2,1=23.7000,5=0
+PRP Case/Package ''
+PRP Connector_Type ''
+PRP Gender ''
+PRP Max_Current_Rating '10A'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology ''
+PRP Pins '4'
+PRP RoHS_Compliant ''
+PRP Voltage_Rating ''
+TOP 0 54.04000114 80.1599997 180 N 4 28 1
+TOP 1 48.96000114 80.1599997 180 N 1 164 2
+TOP 2 56.58000114 69.9999997 180 N 5 10 3
+TOP 3 51.50000114 69.9999997 180 N 1 151 4
+#
+# CMP 9
+CMP 1 70.7700007 78.99999948 180 N P1 691319510004 ;0=2,1=23.7000,5=0
+PRP Case/Package ''
+PRP Connector_Type ''
+PRP Gender ''
+PRP Max_Current_Rating '10A'
+PRP Max_Operating_Temperature '105°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology ''
+PRP Pins '4'
+PRP RoHS_Compliant ''
+PRP Voltage_Rating ''
+TOP 0 72.0400007 80.1599997 180 N 2 26 1
+TOP 1 66.9600007 80.1599997 180 N 1 165 2
+TOP 2 74.5800007 69.9999997 180 N 3 20 3
+TOP 3 69.5000007 69.9999997 180 N 1 163 4
+#
+# CMP 10
+CMP 4 64.99999954 10.49999932 180 N J6 OSTYK51102030 ;0=2,1=10.5000,5=0
+PRP Case/Package ''
+PRP Connector_Type ''
+PRP Gender ''
+PRP Max_Current_Rating '20A'
+PRP Max_Operating_Temperature '115°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology 'Screw'
+PRP Pins '2'
+PRP RoHS_Compliant ''
+PRP Voltage_Rating '300V'
+TOP 0 64.99999954 10.49999932 180 N 1 150 1
+TOP 1 55.5000033 10.49999932 180 N 1 152 2
+#
+# CMP 11
+CMP 4 29.49999688 10.49999932 180 N J3 OSTYK51102030 ;0=2,1=10.5000,5=0
+PRP Case/Package ''
+PRP Connector_Type ''
+PRP Gender ''
+PRP Max_Current_Rating '20A'
+PRP Max_Operating_Temperature '115°C'
+PRP Min_Operating_Temperature '-40°C'
+PRP Mounting_Technology 'Screw'
+PRP Pins '2'
+PRP RoHS_Compliant ''
+PRP Voltage_Rating '300V'
+TOP 0 29.49999688 10.49999932 180 N 10 62 1
+TOP 1 20.00000064 10.49999932 180 N 10 61 2
+#
+# CMP 12
+CMP 0 21.70000232 35.0399985 90 N F16 3544-2 ;0=2,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '30A'
+PRP Max_Operating_Temperature '145°C'
+PRP Min_Operating_Temperature '-50°C'
+PRP Mounting_Technology 'PCB, Through Hole, Vertical'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 21.70000232 40.93499814 90 N 9 21 1
+TOP 1 21.70000232 37.27499784 90 N 9 18 2
+TOP 2 21.70000232 32.80499916 90 N 10 56 3
+TOP 3 21.70000232 29.14499886 90 N 10 55 4
+#
+# CMP 13
+CMP 0 12.7 35.0399985 90 N F15 3544-2 ;0=2,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '30A'
+PRP Max_Operating_Temperature '145°C'
+PRP Min_Operating_Temperature '-50°C'
+PRP Mounting_Technology 'PCB, Through Hole, Vertical'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 12.7 40.93499814 90 N 8 29 1
+TOP 1 12.7 37.27499784 90 N 8 26 2
+TOP 2 12.7 32.80499916 90 N 10 57 3
+TOP 3 12.7 29.14499886 90 N 10 59 4
+#
+# CMP 14
+CMP 0 39.70000188 35.0399985 90 N F11 3544-2 ;0=2,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '30A'
+PRP Max_Operating_Temperature '145°C'
+PRP Min_Operating_Temperature '-50°C'
+PRP Mounting_Technology 'PCB, Through Hole, Vertical'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 39.70000188 40.93499814 90 N 7 19 1
+TOP 1 39.70000188 37.27499784 90 N 7 16 2
+TOP 2 39.70000188 32.80499916 90 N 10 58 3
+TOP 3 39.70000188 29.14499886 90 N 10 51 4
+#
+# CMP 15
+CMP 0 30.7000021 35.0399985 90 N F10 3544-2 ;0=2,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '30A'
+PRP Max_Operating_Temperature '145°C'
+PRP Min_Operating_Temperature '-50°C'
+PRP Mounting_Technology 'PCB, Through Hole, Vertical'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 30.7000021 40.93499814 90 N 6 29 1
+TOP 1 30.7000021 37.27499784 90 N 6 26 2
+TOP 2 30.7000021 32.80499916 90 N 10 50 3
+TOP 3 30.7000021 29.14499886 90 N 10 52 4
+#
+# CMP 16
+CMP 0 57.70000398 35.0399985 90 N F6 3544-2 ;0=2,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '30A'
+PRP Max_Operating_Temperature '145°C'
+PRP Min_Operating_Temperature '-50°C'
+PRP Mounting_Technology 'PCB, Through Hole, Vertical'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 57.70000398 40.93499814 90 N 5 11 1
+TOP 1 57.70000398 37.27499784 90 N 5 8 2
+TOP 2 57.70000398 32.80499916 90 N 10 54 3
+TOP 3 57.70000398 29.14499886 90 N 10 53 4
+#
+# CMP 17
+CMP 0 48.70000166 35.0399985 90 N F5 3544-2 ;0=2,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '30A'
+PRP Max_Operating_Temperature '145°C'
+PRP Min_Operating_Temperature '-50°C'
+PRP Mounting_Technology 'PCB, Through Hole, Vertical'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 48.70000166 40.93499814 90 N 4 29 1
+TOP 1 48.70000166 37.27499784 90 N 4 26 2
+TOP 2 48.70000166 32.80499916 90 N 10 60 3
+TOP 3 48.70000166 29.14499886 90 N 10 67 4
+#
+# CMP 18
+CMP 0 75.70000354 35.0399985 90 N F2 3544-2 ;0=2,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '30A'
+PRP Max_Operating_Temperature '145°C'
+PRP Min_Operating_Temperature '-50°C'
+PRP Mounting_Technology 'PCB, Through Hole, Vertical'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 75.70000354 40.93499814 90 N 3 21 1
+TOP 1 75.70000354 37.27499784 90 N 3 18 2
+TOP 2 75.70000354 32.80499916 90 N 10 66 3
+TOP 3 75.70000354 29.14499886 90 N 10 69 4
+#
+# CMP 19
+CMP 0 66.70000376 35.0399985 90 N F1 3544-2 ;0=2,1=0.0000,5=0
+PRP Case/Package ''
+PRP Current_Rating '30A'
+PRP Max_Operating_Temperature '145°C'
+PRP Min_Operating_Temperature '-50°C'
+PRP Mounting_Technology 'PCB, Through Hole, Vertical'
+PRP Pins ''
+PRP RoHS_Compliant ''
+TOP 0 66.70000376 40.93499814 90 N 2 27 1
+TOP 1 66.70000376 37.27499784 90 N 2 24 2
+TOP 2 66.70000376 32.80499916 90 N 10 68 3
+TOP 3 66.70000376 29.14499886 90 N 10 65 4
+#
+# CMP 20
+CMP 2 20.49999964 50.49999806 180 N C8 REH1020471M050K ;0=2,1=0.0000,5=0
+PRP Capacitor_Type 'Aluminium'
+PRP Case/Package 'Radial'
+PRP Max_Operating_Temperature '-40°C'
+PRP Min_Operating_Temperature '125°C'
+PRP Mounting_Technology 'Through Hole'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'Yes'
+PRP Tolerance '20%'
+PRP Value '470µF'
+PRP Voltage_Rating '50V'
+TOP 0 22.99999972 50.49999806 180 N 9 19 1
+TOP 1 17.99999956 50.49999806 180 N 1 161 2
+#
+# CMP 21
+CMP 2 14.75000098 59.99999938 0 N C7 REH1020471M050K ;0=2,1=0.0000,5=0
+PRP Capacitor_Type 'Aluminium'
+PRP Case/Package 'Radial'
+PRP Max_Operating_Temperature '-40°C'
+PRP Min_Operating_Temperature '125°C'
+PRP Mounting_Technology 'Through Hole'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'Yes'
+PRP Tolerance '20%'
+PRP Value '470µF'
+PRP Voltage_Rating '50V'
+TOP 0 12.2500009 59.99999938 0 N 8 27 1
+TOP 1 17.25000106 59.99999938 0 N 1 162 2
+#
+# CMP 22
+CMP 2 38.50000174 50.49999806 180 N C6 REH1020471M050K ;0=2,1=0.0000,5=0
+PRP Capacitor_Type 'Aluminium'
+PRP Case/Package 'Radial'
+PRP Max_Operating_Temperature '-40°C'
+PRP Min_Operating_Temperature '125°C'
+PRP Mounting_Technology 'Through Hole'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'Yes'
+PRP Tolerance '20%'
+PRP Value '470µF'
+PRP Voltage_Rating '50V'
+TOP 0 41.00000182 50.49999806 180 N 7 17 1
+TOP 1 36.00000166 50.49999806 180 N 1 160 2
+#
+# CMP 23
+CMP 2 32.75000054 59.74999988 0 N C5 REH1020471M050K ;0=2,1=0.0000,5=0
+PRP Capacitor_Type 'Aluminium'
+PRP Case/Package 'Radial'
+PRP Max_Operating_Temperature '-40°C'
+PRP Min_Operating_Temperature '125°C'
+PRP Mounting_Technology 'Through Hole'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'Yes'
+PRP Tolerance '20%'
+PRP Value '470µF'
+PRP Voltage_Rating '50V'
+TOP 0 30.25000046 59.74999988 0 N 6 27 1
+TOP 1 35.25000062 59.74999988 0 N 1 159 2
+#
+# CMP 24
+CMP 2 56.49999876 50.49999806 180 N C4 REH1020471M050K ;0=2,1=0.0000,5=0
+PRP Capacitor_Type 'Aluminium'
+PRP Case/Package 'Radial'
+PRP Max_Operating_Temperature '-40°C'
+PRP Min_Operating_Temperature '125°C'
+PRP Mounting_Technology 'Through Hole'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'Yes'
+PRP Tolerance '20%'
+PRP Value '470µF'
+PRP Voltage_Rating '50V'
+TOP 0 58.99999884 50.49999806 180 N 5 9 1
+TOP 1 53.99999868 50.49999806 180 N 1 166 2
+#
+# CMP 25
+CMP 2 50.7500001 59.99999938 0 N C3 REH1020471M050K ;0=2,1=0.0000,5=0
+PRP Capacitor_Type 'Aluminium'
+PRP Case/Package 'Radial'
+PRP Max_Operating_Temperature '-40°C'
+PRP Min_Operating_Temperature '125°C'
+PRP Mounting_Technology 'Through Hole'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'Yes'
+PRP Tolerance '20%'
+PRP Value '470µF'
+PRP Voltage_Rating '50V'
+TOP 0 48.25000002 59.99999938 0 N 4 27 1
+TOP 1 53.25000018 59.99999938 0 N 1 154 2
+#
+# CMP 26
+CMP 2 74.50000086 50.49999806 180 N C2 REH1020471M050K ;0=2,1=0.0000,5=0
+PRP Capacitor_Type 'Aluminium'
+PRP Case/Package 'Radial'
+PRP Max_Operating_Temperature '-40°C'
+PRP Min_Operating_Temperature '125°C'
+PRP Mounting_Technology 'Through Hole'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'Yes'
+PRP Tolerance '20%'
+PRP Value '470µF'
+PRP Voltage_Rating '50V'
+TOP 0 77.00000094 50.49999806 180 N 3 19 1
+TOP 1 72.00000078 50.49999806 180 N 1 153 2
+#
+# CMP 27
+CMP 2 68.50000016 59.74999988 0 N C1 REH1020471M050K ;0=2,1=0.0000,5=0
+PRP Capacitor_Type 'Aluminium'
+PRP Case/Package 'Radial'
+PRP Max_Operating_Temperature '-40°C'
+PRP Min_Operating_Temperature '125°C'
+PRP Mounting_Technology 'Through Hole'
+PRP Pins '2'
+PRP Ripple_Current ''
+PRP Ripple_Current_(AC) ''
+PRP RoHS_Compliant 'Yes'
+PRP Tolerance '20%'
+PRP Value '470µF'
+PRP Voltage_Rating '50V'
+TOP 0 66.00000008 59.74999988 0 N 2 25 1
+TOP 1 71.00000024 59.74999988 0 N 1 155 2
+#

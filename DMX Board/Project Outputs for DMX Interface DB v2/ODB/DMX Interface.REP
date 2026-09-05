@@ -1,0 +1,158 @@
+*************************************************************
+FileName = DMX Interface.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : odb\steps\pcb\profile
+
+Generated File : odb\steps\pcb\stephdr
+
+Generated File : odb\steps\pcb\attrlist
+
+Generated File : odb\steps\pcb\layers\top_surface_finish\features
+
+Generated File : odb\steps\pcb\layers\top_surface_finish\attrlist
+
+Generated File : odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : odb\steps\pcb\layers\dielectric_3\features
+
+Generated File : odb\steps\pcb\layers\dielectric_3\attrlist
+
+Generated File : odb\steps\pcb\layers\bottom_surface_finish\features
+
+Generated File : odb\steps\pcb\layers\bottom_surface_finish\attrlist
+
+Generated File : odb\steps\pcb\layers\dielectric_4\features
+
+Generated File : odb\steps\pcb\layers\dielectric_4\attrlist
+
+Generated File : odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+
+Generated File : odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\attrlist
+
+Generated File : odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+
+Generated File : odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+
+Generated File : odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\attrlist
+
+Generated File : odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+
+Generated File : odb\steps\pcb\layers\top_paste\features
+
+Generated File : odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : odb\steps\pcb\layers\top_solder\features
+
+Generated File : odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : odb\steps\pcb\layers\int2__pwr_\features
+
+Generated File : odb\steps\pcb\layers\int2__pwr_\attrlist
+
+Generated File : odb\steps\pcb\layers\top_overlay\features
+
+Generated File : odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : odb\steps\pcb\layers\int1__gnd_\features
+
+Generated File : odb\steps\pcb\layers\int1__gnd_\attrlist
+
+Generated File : odb\steps\pcb\layers\top_layer\features
+
+Generated File : odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : odb\steps\pcb\eda\data
+
+Generated File : odb\matrix\matrix
+
+Generated File : odb\symbols\shape19abfc3a\features
+
+Generated File : odb\symbols\shapeb8ef8c17\features
+
+Generated File : odb\symbols\shape4fac6fcc\features
+
+Generated File : odb\symbols\shape5e0ee9a6\features
+
+Generated File : odb\symbols\shape02d8f816\features
+
+Generated File : odb\symbols\shape9bb934d9\features
+
+Generated File : odb\symbols\shape03b029c5\features
+
+Generated File : odb\symbols\shape19abfc3a\features
+
+Generated File : odb\symbols\shapeb8ef8c17\features
+
+Generated File : odb\symbols\shape4fac6fcc\features
+
+Generated File : odb\symbols\shape02d8f816\features
+
+Generated File : odb\symbols\shape9bb934d9\features
+
+Generated File : odb\symbols\shape03b029c5\features
+
+Generated File : odb\symbols\shape6346f850\features
+
+Generated File : odb\symbols\shapebf0b81c8\features
+
+Generated File : odb\symbols\shaped41b0263\features
+
+Generated File : odb\symbols\shape4ca35634\features
+
+Generated File : odb\symbols\shapef5423916\features
+
+Generated File : odb\symbols\shapead1568c0\features
+
+Generated File : odb\symbols\shape62af211f\features
+
+Generated File : odb\symbols\shape37f8b459\features
+
+Generated File : odb\symbols\shapec8b52e4f\features
+
+Generated File : odb\symbols\shapecf648d66\features
+
+Generated File : odb\symbols\shape6d1a5bc5\features
+
+Generated File : odb\symbols\shapec6daa19f\features
+
+Generated File : odb\symbols\shape19abfc3a\features
+
+Generated File : odb\symbols\shapeb8ef8c17\features
+
+Generated File : odb\symbols\shape4fac6fcc\features
+
+Generated File : odb\symbols\shape5e0ee9a6\features
+
+Generated File : odb\symbols\shape02d8f816\features
+
+Generated File : odb\symbols\shape9bb934d9\features
+
+Generated File : odb\symbols\shape03b029c5\features
+
