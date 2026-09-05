@@ -1,0 +1,704 @@
+*************************************************************
+FileName = DMX Interface.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : DMX Interface_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D17
+    D75
+    D76
+    D90
+    D91
+    D92
+    D109
+    D113
+    D114
+    D116
+    D117
+    D118
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : DMX Interface_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D75
+    D76
+    D90
+    D91
+    D92
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D132
+    D133
+    D134
+    D135
+    D136
+    D138
+    D139
+    D140
+    D141
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : DMX Interface_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D75
+    D76
+    D90
+    D91
+    D92
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DMX Interface_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : DMX Interface_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D151
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DMX Interface_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D139
+    D140
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DMX Interface_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DMX Interface_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D142
+    D143
+    D144
+    D145
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : DMX Interface_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D39
+    D42
+    D44
+    D46
+    D47
+    D48
+    D49
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DMX Interface_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : DMX Interface_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D20
+    D146
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : DMX Interface_Top_Designator.gbr
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : DMX Interface_Bottom_Designator.gbr
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Int2 (PWR)
+      File : DMX Interface_Copper_Signal_2.gbr
+
+    Adding Layer      : Int2 (PWR)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D75
+    D76
+    D90
+    D91
+    D92
+    D109
+    D113
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D132
+    D133
+    D134
+    D135
+    D137
+    D138
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 6
+      File : DMX Interface_Mechanical_6.gbr
+
+    Adding Layer      : Mechanical 6
+
+
+Used DCodes :
+    D12
+    D20
+    D147
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : DMX Interface_Bottom_Courtyard.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D149
+*************************************************************
+
+*************************************************************
+Generating : Int1 (GND)
+      File : DMX Interface_Copper_Signal_1.gbr
+
+    Adding Layer      : Int1 (GND)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D75
+    D76
+    D90
+    D91
+    D92
+    D109
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D132
+    D133
+    D134
+    D135
+    D137
+    D138
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : DMX Interface_Top_Component_Center.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D16
+    D148
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : DMX Interface_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D75
+    D76
+    D90
+    D91
+    D92
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : DMX Interface_Top_3D_Body.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+    D14
+    D16
+    D147
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : DMX Interface_Bottom_3D_Body.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 14
+      File : DMX Interface_Mechanical_14.gbr
+
+    Adding Layer      : Mechanical 14
+
+
+Used DCodes :
+    D12
+    D148
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : DMX Interface_Bottom_Component_Outline.gbr
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : DMX Interface_Mechanical_7.gbr
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : DMX Interface_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D14
+    D16
+    D20
+    D21
+    D149
+    D150
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : DMX Interface_Top_Assembly.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D14
+    D16
+    D18
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : DMX Interface_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D152
+    D153
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : DMX Interface_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : DMX Interface_Profile.gbr
+
+
+Used DCodes :
+    D154
+*************************************************************
+

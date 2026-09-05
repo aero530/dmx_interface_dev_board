@@ -1,0 +1,300 @@
+[OutputJobFile]
+Version=1.0
+Caption=Equus Assembly
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=Equus Computer Systems
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[PublishSettings]
+OutputFilePath1=C:\ProgramData\Altium\Altium Designer {4BD6C4D7-A447-45DF-8637-71FB926C17E6}\VaultEditCache\660ABE5E-2D28-40E6-946B-DC1406F494CB\Released\Project Outputs\Assembly\
+ReleaseManaged1=1
+OutputBasePath1=Project Outputs for Free Documents
+OutputPathMedia1=Assembly
+OutputPathMediaValue1=Assembly
+OutputPathOutputer1=
+OutputPathOutputerPrefix1=
+OutputPathOutputerValue1=
+OutputFileName1=Assembly.PDF
+OutputFileNameMulti1==Assy_DocNum+'-'+VariantSuffix+'_DWG_REV'+Assy_Rev_Dwg
+UseOutputNameForMulti1=0
+OutputFileNameSpecial1=
+OpenOutput1=1
+PromptOverwrite1=1
+PublishMethod1=1
+ZoomLevel1=50
+FitSCHPrintSizeToDoc1=1
+FitPCBPrintSizeToDoc1=1
+GenerateNetsInfo1=1
+MarkPins1=1
+MarkNetLabels1=1
+MarkPortsId1=1
+GenerateTOC1=1
+ShowComponentParameters1=1
+GlobalBookmarks1=0
+PDFACompliance1=Disabled
+PDFVersion1=Default
+OutputFilePath2=C:\ProgramData\Altium\Altium Designer {4BD6C4D7-A447-45DF-8637-71FB926C17E6}\VaultEditCache\660ABE5E-2D28-40E6-946B-DC1406F494CB\Released\Project Outputs\Assembly\
+ReleaseManaged2=1
+OutputBasePath2=Project Outputs for Free Documents
+OutputPathMedia2=Assembly
+OutputPathMediaValue2=Assembly
+OutputPathOutputer2=
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2=
+OutputFileName2=Assembly.PDF
+OutputFileNameMulti2==Assy_DocNum+'-'+VariantSuffix+'_SCH_REV'+Assy_Rev_Dwg
+UseOutputNameForMulti2=0
+OutputFileNameSpecial2=
+OpenOutput2=1
+PromptOverwrite2=1
+PublishMethod2=1
+ZoomLevel2=50
+FitSCHPrintSizeToDoc2=1
+FitPCBPrintSizeToDoc2=1
+GenerateNetsInfo2=1
+MarkPins2=1
+MarkNetLabels2=1
+MarkPortsId2=1
+GenerateTOC2=1
+ShowComponentParameters2=1
+GlobalBookmarks2=0
+PDFACompliance2=Disabled
+PDFVersion2=Default
+OutputFilePath3=
+ReleaseManaged3=0
+OutputBasePath3=Project Outputs
+OutputPathMedia3=
+OutputPathMediaValue3=
+OutputPathOutputer3=[Output Type]
+OutputPathOutputerPrefix3=
+OutputPathOutputerValue3=
+OutputFileName3=
+OutputFileNameMulti3=
+UseOutputNameForMulti3=1
+OutputFileNameSpecial3=
+OpenOutput3=1
+PromptOverwrite3=1
+PublishMethod3=2
+ZoomLevel3=50
+FitSCHPrintSizeToDoc3=1
+FitPCBPrintSizeToDoc3=1
+GenerateNetsInfo3=1
+MarkPins3=1
+MarkNetLabels3=1
+MarkPortsId3=1
+WebOutputMediumType3=FS
+OutputDirectory3=C:\Users\Public\Documents\Altium\Size B Template\Manufacturing Documentation\Assembly\
+OutputFilePath4=Project Outputs for Free Documents\Assembly\
+ReleaseManaged4=1
+OutputBasePath4=Project Outputs for Free Documents
+OutputPathMedia4=Assembly
+OutputPathMediaValue4=Assembly
+OutputPathOutputer4=[Output Type]
+OutputPathOutputerPrefix4=
+OutputPathOutputerValue4=
+OutputFileName4=
+OutputFileNameMulti4==Assy_DocNum+'-'+VariantSuffix+'_REV'+Assy_Rev_BOM
+UseOutputNameForMulti4=0
+OutputFileNameSpecial4=
+OpenOutput4=1
+OutputFilePath5=C:\ProgramData\Altium\Altium Designer {4BD6C4D7-A447-45DF-8637-71FB926C17E6}\VaultEditCache\660ABE5E-2D28-40E6-946B-DC1406F494CB\Released\Project Outputs\Assembly\
+ReleaseManaged5=1
+OutputBasePath5=Project Outputs for Free Documents
+OutputPathMedia5=Assembly
+OutputPathMediaValue5=Assembly
+OutputPathOutputer5=[Output Custom]
+OutputPathOutputerPrefix5=
+OutputPathOutputerValue5=Bill of Materials
+OutputFileName5=
+OutputFileNameMulti5==Assy_DocNum+'_BOM_REV'+Assy_Rev_BOM
+UseOutputNameForMulti5=0
+OutputFileNameSpecial5=
+OpenOutput5=1
+
+[GeneratedFilesSettings]
+RelativeOutputPath1=C:\ProgramData\Altium\Altium Designer {4BD6C4D7-A447-45DF-8637-71FB926C17E6}\VaultEditCache\660ABE5E-2D28-40E6-946B-DC1406F494CB\Released\Project Outputs\Assembly\
+OpenOutputs1=1
+RelativeOutputPath2=C:\ProgramData\Altium\Altium Designer {4BD6C4D7-A447-45DF-8637-71FB926C17E6}\VaultEditCache\660ABE5E-2D28-40E6-946B-DC1406F494CB\Released\Project Outputs\Assembly\
+OpenOutputs2=1
+RelativeOutputPath3=
+OpenOutputs3=1
+RelativeOutputPath4=Project Outputs for Free Documents\Assembly\
+OpenOutputs4=1
+AddToProject4=1
+TimestampFolder4=0
+UseOutputName4=1
+OpenODBOutput4=0
+OpenGerberOutput4=0
+OpenNCDrillOutput4=0
+OpenIPCOutput4=0
+EnableReload4=0
+RelativeOutputPath5=C:\ProgramData\Altium\Altium Designer {4BD6C4D7-A447-45DF-8637-71FB926C17E6}\VaultEditCache\660ABE5E-2D28-40E6-946B-DC1406F494CB\Released\Project Outputs\Assembly\
+OpenOutputs5=1
+AddToProject5=1
+TimestampFolder5=0
+UseOutputName5=0
+OpenODBOutput5=0
+OpenGerberOutput5=0
+OpenNCDrillOutput5=0
+OpenIPCOutput5=0
+EnableReload5=0
+
+[OutputGroup1]
+Name=OUT-0006-5.OutJob
+Description=
+TargetOutputMedium=Bill Of Materials xls
+VariantName=Production
+VariantScope=1
+CurrentConfigurationName=
+TargetPrinter=Phaser 7500DN PS
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium1=Assembly Drawing
+OutputMedium1_Type=Publish
+OutputMedium2=Schamtics
+OutputMedium2_Type=Publish
+OutputMedium3=Publish To Web
+OutputMedium3_Type=PublishToWeb
+OutputMedium4=Assembly Files
+OutputMedium4_Type=GeneratedFiles
+OutputMedium5=Bill Of Materials xls
+OutputMedium5_Type=GeneratedFiles
+OutputType1=Pick Place
+OutputName1=Generates pick and place files
+OutputCategory1=Assembly
+OutputDocumentPath1=
+OutputVariantName1=
+OutputEnabled1=0
+OutputEnabled1_OutputMedium1=0
+OutputEnabled1_OutputMedium2=0
+OutputEnabled1_OutputMedium3=0
+OutputEnabled1_OutputMedium4=1
+OutputEnabled1_OutputMedium5=0
+OutputDefault1=0
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True|DocumentPath=C:\ProgramData\Altium\Altium Designer {4BD6C4D7-A447-45DF-8637-71FB926C17E6}\VaultEditCache\660ABE5E-2D28-40E6-946B-DC1406F494CB\Released\PCB1.PcbDoc
+OutputType2=Test Points For Assembly
+OutputName2=Test Point Report
+OutputCategory2=Assembly
+OutputDocumentPath2=
+OutputVariantName2=
+OutputEnabled2=0
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=0
+OutputEnabled2_OutputMedium3=0
+OutputEnabled2_OutputMedium4=2
+OutputEnabled2_OutputMedium5=0
+OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=AssyAdjacencyDistance=250000|AssyGenerateCSVFormat=False|AssyGenerateIPCFormat=False|AssyGenerateSpreadSheetFormat=True|AssyGenerateTextFormat=True|AssyOutlineLayer=56|AssyOutputAdjancencies=False|AssyOutputBoardOutline=False|AssyOutputTraces=False|AssyReportBottomLayerTestpoints=True|AssyReportTopLayerTestpoints=True|AssyUnits=Imperial|Record=TestPointView|DocumentPath=C:\ProgramData\Altium\Altium Designer {4BD6C4D7-A447-45DF-8637-71FB926C17E6}\VaultEditCache\660ABE5E-2D28-40E6-946B-DC1406F494CB\Released\PCB1.PcbDoc
+OutputType3=BOM_PartType
+OutputName3=Bill of Materials pdf
+OutputCategory3=Report
+OutputDocumentPath3=[ActiveBOM Document]
+OutputVariantName3=
+OutputEnabled3=0
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=0
+OutputEnabled3_OutputMedium3=0
+OutputEnabled3_OutputMedium4=0
+OutputEnabled3_OutputMedium5=0
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration3_Name1=ColumnNameFormat
+Configuration3_Item1=CaptionAsName
+Configuration3_Name2=General
+Configuration3_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=CD05AC58-16E1-4A4E-A0D2-94A32A5126ED|TemplateItemGuid=F44FCC4E-C6B9-49F7-A351-91E6C5174194|TemplateRevisionGuid=D9473F86-1C14-4D65-9275-0D70077F4577|BatchMode=6|FormWidth=1381|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
+Configuration3_Name3=GroupOrder
+Configuration3_Item3=
+Configuration3_Name4=OutputConfigurationParameter1
+Configuration3_Item4=??
+Configuration3_Name5=VisibleOrder
+Configuration3_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+Configuration3_Name6=VisibleOrder_Base
+Configuration3_Item6=Line #=71|Comment=69|Description=99|Designator=97|Quantity=84|Manufacturer 1=119|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139
+Configuration3_Name7=VisibleOrder_Consolidated
+Configuration3_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=119|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139
+Configuration3_Name8=VisibleOrder_Flat
+Configuration3_Item8=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=119|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139
+OutputType4=Test Points For Assembly
+OutputName4=IPC-D-356 Netlist
+OutputCategory4=Assembly
+OutputDocumentPath4=
+OutputVariantName4=
+OutputEnabled4=0
+OutputEnabled4_OutputMedium1=0
+OutputEnabled4_OutputMedium2=0
+OutputEnabled4_OutputMedium3=0
+OutputEnabled4_OutputMedium4=3
+OutputEnabled4_OutputMedium5=0
+OutputDefault4=0
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=AssyAdjacencyDistance=250000|AssyGenerateCSVFormat=False|AssyGenerateIPCFormat=True|AssyGenerateSpreadSheetFormat=True|AssyGenerateTextFormat=False|AssyOutlineLayer=56|AssyOutputAdjancencies=True|AssyOutputBoardOutline=True|AssyOutputTraces=False|AssyReportBottomLayerTestpoints=True|AssyReportTopLayerTestpoints=True|AssyUnits=Imperial|Record=TestPointView|DocumentPath=C:\ProgramData\Altium\Altium Designer {4BD6C4D7-A447-45DF-8637-71FB926C17E6}\VaultEditCache\660ABE5E-2D28-40E6-946B-DC1406F494CB\Released\PCB1.PcbDoc
+OutputType5=BOM_PartType
+OutputName5=Bill of Materials xls
+OutputCategory5=Report
+OutputDocumentPath5=[ActiveBOM Document]
+OutputVariantName5=
+OutputEnabled5=1
+OutputEnabled5_OutputMedium1=0
+OutputEnabled5_OutputMedium2=0
+OutputEnabled5_OutputMedium3=0
+OutputEnabled5_OutputMedium4=0
+OutputEnabled5_OutputMedium5=1
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration5_Name1=ColumnNameFormat
+Configuration5_Item1=CaptionAsName
+Configuration5_Name2=General
+Configuration5_Item2=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=CD05AC58-16E1-4A4E-A0D2-94A32A5126ED|TemplateItemGuid=F44FCC4E-C6B9-49F7-A351-91E6C5174194|TemplateRevisionGuid=D9473F86-1C14-4D65-9275-0D70077F4577|BatchMode=2|FormWidth=1381|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
+Configuration5_Name3=GroupOrder
+Configuration5_Item3=
+Configuration5_Name4=OutputConfigurationParameter1
+Configuration5_Item4=??
+Configuration5_Name5=SortOrder
+Configuration5_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration5_Name6=VisibleOrder
+Configuration5_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+Configuration5_Name7=VisibleOrder_Base
+Configuration5_Item7=Line #=71|Comment=69|Description=99|Designator=97|Quantity=84|Manufacturer 1=119|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139
+Configuration5_Name8=VisibleOrder_Consolidated
+Configuration5_Item8=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=119|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139
+Configuration5_Name9=VisibleOrder_Flat
+Configuration5_Item9=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=119|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139
+OutputType6=Schematic Print
+OutputName6=Schematic Prints
+OutputCategory6=Documentation
+OutputDocumentPath6=[Project Physical Documents]
+OutputVariantName6=
+OutputEnabled6=0
+OutputEnabled6_OutputMedium1=0
+OutputEnabled6_OutputMedium2=1
+OutputEnabled6_OutputMedium3=0
+OutputEnabled6_OutputMedium4=0
+OutputEnabled6_OutputMedium5=0
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=B
+Configuration6_Name1=OutputConfigurationParameter1
+Configuration6_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\ProgramData\Altium\Altium Designer {4BD6C4D7-A447-45DF-8637-71FB926C17E6}\VaultEditCache\660ABE5E-2D28-40E6-946B-DC1406F494CB\Released\Sheet1.SchDoc
+OutputType7=PCBDrawing
+OutputName7=Draftsman
+OutputCategory7=Documentation
+OutputDocumentPath7=Assembly Drawing.PCBDwf
+OutputVariantName7=
+OutputEnabled7=0
+OutputEnabled7_OutputMedium1=1
+OutputEnabled7_OutputMedium2=0
+OutputEnabled7_OutputMedium3=0
+OutputEnabled7_OutputMedium4=0
+OutputEnabled7_OutputMedium5=0
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
